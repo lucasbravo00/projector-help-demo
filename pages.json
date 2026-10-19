@@ -1,0 +1,3357 @@
+[
+ {
+  "slug": "home",
+  "title": "Home",
+  "menu_order": 0,
+  "data": [
+   {
+    "id": "8b99d64",
+    "elType": "container",
+    "isInner": false,
+    "settings": {
+     "content_width": "boxed",
+     "flex_direction": "column",
+     "css_classes": "pa-hero pa-hero--home"
+    },
+    "elements": [
+     {
+      "id": "016b162",
+      "elType": "widget",
+      "widgetType": "heading",
+      "settings": {
+       "title": "Welcome to our Support",
+       "header_size": "h1",
+       "_css_classes": "pa-hero-title"
+      },
+      "elements": []
+     },
+     {
+      "id": "b9cea9d",
+      "elType": "widget",
+      "widgetType": "text-editor",
+      "settings": {
+       "editor": "<p>Everything you need to set up your personal streaming service\nand start enjoying your memories on the big screen.</p>",
+       "_css_classes": "pa-hero-lead"
+      },
+      "elements": []
+     }
+    ]
+   },
+   {
+    "id": "628c83f",
+    "elType": "container",
+    "isInner": false,
+    "settings": {
+     "content_width": "boxed",
+     "flex_direction": "column",
+     "css_classes": "pa-body"
+    },
+    "elements": [
+     {
+      "id": "4b48845",
+      "elType": "container",
+      "isInner": true,
+      "settings": {
+       "content_width": "full",
+       "flex_direction": "column",
+       "css_classes": "pa-grid pa-helpcards",
+       "container_type": "grid",
+       "grid_columns_grid": {
+        "unit": "fr",
+        "size": 3,
+        "sizes": []
+       },
+       "grid_columns_grid_tablet": {
+        "unit": "fr",
+        "size": 1,
+        "sizes": []
+       },
+       "grid_columns_grid_mobile": {
+        "unit": "fr",
+        "size": 1,
+        "sizes": []
+       },
+       "grid_rows_grid": {
+        "unit": "custom",
+        "size": "auto",
+        "sizes": []
+       },
+       "grid_rows_grid_tablet": {
+        "unit": "custom",
+        "size": "auto",
+        "sizes": []
+       },
+       "grid_rows_grid_mobile": {
+        "unit": "custom",
+        "size": "auto",
+        "sizes": []
+       },
+       "grid_gaps": {
+        "unit": "px",
+        "column": "24",
+        "row": "24",
+        "isLinked": true
+       },
+       "grid_gaps_mobile": {
+        "unit": "px",
+        "column": "16",
+        "row": "16",
+        "isLinked": true
+       },
+       "grid_auto_flow": "row"
+      },
+      "elements": [
+       {
+        "id": "f3fe804",
+        "elType": "container",
+        "isInner": true,
+        "settings": {
+         "content_width": "full",
+         "flex_direction": "column",
+         "css_classes": "pa-card pa-card--tight pa-helpcard",
+         "html_tag": "a",
+         "link": {
+          "url": "/about/",
+          "is_external": "",
+          "nofollow": "",
+          "custom_attributes": ""
+         }
+        },
+        "elements": [
+         {
+          "id": "96c194b",
+          "elType": "widget",
+          "widgetType": "html",
+          "settings": {
+           "html": "<div class=\"pa-badge\"><svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M12 7v14\"/><path d=\"M3 18a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h5a4 4 0 0 1 4 4 4 4 0 0 1 4-4h5a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1h-6a3 3 0 0 0-3 3 3 3 0 0 0-3-3z\"/></svg></div>",
+           "_css_classes": "pa-badge-wrap"
+          },
+          "elements": []
+         },
+         {
+          "id": "529ed28",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+           "title": "What is Projector?",
+           "header_size": "h2",
+           "_css_classes": "pa-h4"
+          },
+          "elements": []
+         },
+         {
+          "id": "f6c8d93",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+           "editor": "<p>Projector is a personal video streaming service for your Smart TV. We let you watch...</p>",
+           "_css_classes": "pa-prose pa-prose--muted"
+          },
+          "elements": []
+         },
+         {
+          "id": "b92f5e7",
+          "elType": "widget",
+          "widgetType": "html",
+          "settings": {
+           "html": "<span class=\"pa-tile-arrow\"><svg viewBox=\"0 0 24 24\" width=\"14\" height=\"14\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14\"/><path d=\"m12 5 7 7-7 7\"/></svg></span>",
+           "_css_classes": "pa-helpcard-arrow"
+          },
+          "elements": []
+         }
+        ]
+       },
+       {
+        "id": "4ae957c",
+        "elType": "container",
+        "isInner": true,
+        "settings": {
+         "content_width": "full",
+         "flex_direction": "column",
+         "css_classes": "pa-card pa-card--tight pa-helpcard",
+         "html_tag": "a",
+         "link": {
+          "url": "/gettingstarted/",
+          "is_external": "",
+          "nofollow": "",
+          "custom_attributes": ""
+         }
+        },
+        "elements": [
+         {
+          "id": "1ecb363",
+          "elType": "widget",
+          "widgetType": "html",
+          "settings": {
+           "html": "<div class=\"pa-badge\"><svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09z\"/><path d=\"m12 15-3-3a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.35 22.35 0 0 1-4 2z\"/><path d=\"M9 12H4s.55-3.03 2-4c1.62-1.08 5 0 5 0\"/><path d=\"M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5\"/></svg></div>",
+           "_css_classes": "pa-badge-wrap"
+          },
+          "elements": []
+         },
+         {
+          "id": "364210a",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+           "title": "Getting started",
+           "header_size": "h2",
+           "_css_classes": "pa-h4"
+          },
+          "elements": []
+         },
+         {
+          "id": "7856cb8",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+           "editor": "<p>Everything you need to know to start using Projector to create your own home movie...</p>",
+           "_css_classes": "pa-prose pa-prose--muted"
+          },
+          "elements": []
+         },
+         {
+          "id": "8a0e5fe",
+          "elType": "widget",
+          "widgetType": "html",
+          "settings": {
+           "html": "<span class=\"pa-tile-arrow\"><svg viewBox=\"0 0 24 24\" width=\"14\" height=\"14\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14\"/><path d=\"m12 5 7 7-7 7\"/></svg></span>",
+           "_css_classes": "pa-helpcard-arrow"
+          },
+          "elements": []
+         }
+        ]
+       },
+       {
+        "id": "2345c1f",
+        "elType": "container",
+        "isInner": true,
+        "settings": {
+         "content_width": "full",
+         "flex_direction": "column",
+         "css_classes": "pa-card pa-card--tight pa-helpcard",
+         "html_tag": "a",
+         "link": {
+          "url": "/faq/",
+          "is_external": "",
+          "nofollow": "",
+          "custom_attributes": ""
+         }
+        },
+        "elements": [
+         {
+          "id": "444db03",
+          "elType": "widget",
+          "widgetType": "html",
+          "settings": {
+           "html": "<div class=\"pa-badge\"><svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3\"/><path d=\"M12 17h.01\"/></svg></div>",
+           "_css_classes": "pa-badge-wrap"
+          },
+          "elements": []
+         },
+         {
+          "id": "b76ebd7",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+           "title": "FAQ's",
+           "header_size": "h2",
+           "_css_classes": "pa-h4"
+          },
+          "elements": []
+         },
+         {
+          "id": "0716a04",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+           "editor": "<p>Browse frequently asked questions to quickly find the information you need.</p>",
+           "_css_classes": "pa-prose pa-prose--muted"
+          },
+          "elements": []
+         },
+         {
+          "id": "5946f6d",
+          "elType": "widget",
+          "widgetType": "html",
+          "settings": {
+           "html": "<span class=\"pa-tile-arrow\"><svg viewBox=\"0 0 24 24\" width=\"14\" height=\"14\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14\"/><path d=\"m12 5 7 7-7 7\"/></svg></span>",
+           "_css_classes": "pa-helpcard-arrow"
+          },
+          "elements": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "142dd61",
+      "elType": "container",
+      "isInner": true,
+      "settings": {
+       "content_width": "full",
+       "flex_direction": "column",
+       "css_classes": "pa-card pa-card--dark pa-social-card"
+      },
+      "elements": [
+       {
+        "id": "70b153a",
+        "elType": "widget",
+        "widgetType": "heading",
+        "settings": {
+         "title": "Connect with Us on Social Media",
+         "header_size": "h2",
+         "_css_classes": "pa-h3"
+        },
+        "elements": []
+       },
+       {
+        "id": "13c0b72",
+        "elType": "widget",
+        "widgetType": "social-icons",
+        "settings": {
+         "social_icon_list": [
+          {
+           "_id": "a48e2e6",
+           "social_icon": {
+            "value": "fab fa-facebook-f",
+            "library": "fa-brands"
+           },
+           "link": {
+            "url": "https://www.facebook.com/projectorstreamingapp/",
+            "is_external": "on",
+            "nofollow": "",
+            "custom_attributes": ""
+           },
+           "item_icon_color": "default"
+          },
+          {
+           "_id": "f408620",
+           "social_icon": {
+            "value": "fab fa-youtube",
+            "library": "fa-brands"
+           },
+           "link": {
+            "url": "https://www.youtube.com/@ProjectorVideoStreaming",
+            "is_external": "on",
+            "nofollow": "",
+            "custom_attributes": ""
+           },
+           "item_icon_color": "default"
+          },
+          {
+           "_id": "4576fdc",
+           "social_icon": {
+            "value": "fab fa-linkedin-in",
+            "library": "fa-brands"
+           },
+           "link": {
+            "url": "https://www.linkedin.com/company/projectorstream/",
+            "is_external": "on",
+            "nofollow": "",
+            "custom_attributes": ""
+           },
+           "item_icon_color": "default"
+          },
+          {
+           "_id": "8e7ee43",
+           "social_icon": {
+            "value": "fab fa-instagram",
+            "library": "fa-brands"
+           },
+           "link": {
+            "url": "https://www.instagram.com/projector.stream/",
+            "is_external": "on",
+            "nofollow": "",
+            "custom_attributes": ""
+           },
+           "item_icon_color": "default"
+          },
+          {
+           "_id": "50d9207",
+           "social_icon": {
+            "value": "fab fa-tiktok",
+            "library": "fa-brands"
+           },
+           "link": {
+            "url": "https://www.tiktok.com/@projector.stream",
+            "is_external": "on",
+            "nofollow": "",
+            "custom_attributes": ""
+           },
+           "item_icon_color": "default"
+          }
+         ],
+         "shape": "circle",
+         "align": "center",
+         "_css_classes": "pa-socials"
+        },
+        "elements": []
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "front": true
+ },
+ {
+  "slug": "about",
+  "title": "About",
+  "menu_order": 1,
+  "data": [
+   {
+    "id": "ddb86dd",
+    "elType": "container",
+    "isInner": false,
+    "settings": {
+     "content_width": "boxed",
+     "flex_direction": "column",
+     "css_classes": "pa-hero"
+    },
+    "elements": [
+     {
+      "id": "c42ce65",
+      "elType": "widget",
+      "widgetType": "text-editor",
+      "settings": {
+       "editor": "<p><a href=\"/\">Home</a><span class=\"sep\">/</span><span>What is Projector?</span></p>",
+       "_css_classes": "pa-crumbs"
+      },
+      "elements": []
+     },
+     {
+      "id": "b7ea57c",
+      "elType": "widget",
+      "widgetType": "heading",
+      "settings": {
+       "title": "What is Projector?",
+       "header_size": "h1",
+       "_css_classes": "pa-hero-title"
+      },
+      "elements": []
+     },
+     {
+      "id": "5aaecad",
+      "elType": "widget",
+      "widgetType": "text-editor",
+      "settings": {
+       "editor": "<p>Projector is a personal video streaming service that turns your Smart TV into a dedicated space for your home movies and photo albums. Our mission is to make reliving your most meaningful moments as easy and effortless as watching Netflix. Available on Apple TV, Roku, Amazon Fire, and Google TV, Projector makes it simple to watch and share your personal videos directly on the big screen.</p>",
+       "_css_classes": "pa-hero-lead"
+      },
+      "elements": []
+     }
+    ]
+   },
+   {
+    "id": "94358f6",
+    "elType": "container",
+    "isInner": false,
+    "settings": {
+     "content_width": "boxed",
+     "flex_direction": "column",
+     "css_classes": "pa-body"
+    },
+    "elements": [
+     {
+      "id": "7d3d729",
+      "elType": "container",
+      "isInner": true,
+      "settings": {
+       "content_width": "full",
+       "flex_direction": "row",
+       "flex_direction_mobile": "column",
+       "css_classes": "pa-article"
+      },
+      "elements": [
+       {
+        "id": "ee7005d",
+        "elType": "container",
+        "isInner": true,
+        "settings": {
+         "content_width": "full",
+         "flex_direction": "column",
+         "css_classes": "pa-article-aside"
+        },
+        "elements": [
+         {
+          "id": "0000382",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+           "content_width": "full",
+           "flex_direction": "column",
+           "css_classes": "pa-toc"
+          },
+          "elements": [
+           {
+            "id": "a4988a3",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+             "title": "On this page",
+             "header_size": "div",
+             "_css_classes": "pa-toc-title"
+            },
+            "elements": []
+           },
+           {
+            "id": "40e3b44",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+             "title": "First steps",
+             "header_size": "div",
+             "_css_classes": "pa-toc-group"
+            },
+            "elements": []
+           },
+           {
+            "id": "ef54817",
+            "elType": "widget",
+            "widgetType": "icon-list",
+            "settings": {
+             "icon_list": [
+              {
+               "_id": "9ee6abe",
+               "text": "Essentials",
+               "selected_icon": {
+                "value": "fas fa-star",
+                "library": "fa-solid"
+               },
+               "link": {
+                "url": "#essentials",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+               }
+              },
+              {
+               "_id": "09b1373",
+               "text": "Management",
+               "selected_icon": {
+                "value": "fas fa-folder-open",
+                "library": "fa-solid"
+               },
+               "link": {
+                "url": "#management",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+               }
+              }
+             ],
+             "view": "traditional",
+             "_css_classes": "pa-toc-list"
+            },
+            "elements": []
+           },
+           {
+            "id": "63e8916",
+            "elType": "widget",
+            "widgetType": "icon-list",
+            "settings": {
+             "icon_list": [
+              {
+               "_id": "9558bff",
+               "text": "Help Center Home",
+               "selected_icon": {
+                "value": "fas fa-arrow-left",
+                "library": "fa-solid"
+               },
+               "link": {
+                "url": "/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+               }
+              }
+             ],
+             "view": "traditional",
+             "_css_classes": "pa-toc-list pa-toc-back"
+            },
+            "elements": []
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "id": "53a958c",
+        "elType": "container",
+        "isInner": true,
+        "settings": {
+         "content_width": "full",
+         "flex_direction": "column",
+         "css_classes": "pa-article-main"
+        },
+        "elements": [
+         {
+          "id": "3aced0e",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+           "title": "First steps",
+           "header_size": "h2",
+           "_css_classes": "pa-group-label"
+          },
+          "elements": []
+         },
+         {
+          "id": "aa3d90f",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+           "content_width": "full",
+           "flex_direction": "column",
+           "css_classes": "pa-card pa-card--tight pa-help-card",
+           "_element_id": "essentials"
+          },
+          "elements": [
+           {
+            "id": "739f5d2",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+             "title": "Essentials",
+             "header_size": "h3",
+             "_css_classes": "pa-h3"
+            },
+            "elements": []
+           },
+           {
+            "id": "dd2b901",
+            "elType": "widget",
+            "widgetType": "nested-accordion",
+            "settings": {
+             "items": [
+              {
+               "_id": "56dcea6",
+               "item_title": "Welcome to Projector",
+               "element_css_id": "welcome-projector"
+              },
+              {
+               "_id": "d93ba34",
+               "item_title": "Best Way to Get Started",
+               "element_css_id": "get-started"
+              }
+             ],
+             "title_tag": "h3",
+             "default_state": "all_collapsed",
+             "max_items_expended": "one",
+             "accordion_item_title_position_horizontal": "stretch",
+             "accordion_item_title_icon_position": "end",
+             "accordion_item_title_icon": {
+              "value": "fas fa-chevron-down",
+              "library": "fa-solid"
+             },
+             "accordion_item_title_icon_active": {
+              "value": "fas fa-chevron-up",
+              "library": "fa-solid"
+             },
+             "_css_classes": "pa-accordion"
+            },
+            "elements": [
+             {
+              "id": "050022d",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+               "_title": "item #1",
+               "content_width": "full",
+               "css_classes": "pa-accordion-body"
+              },
+              "elements": [
+               {
+                "id": "148f93b",
+                "elType": "widget",
+                "widgetType": "text-editor",
+                "settings": {
+                 "editor": "<p>Projector is a video streaming service that allows you to enjoy your home movies and family videos on your TV with the same ease as watching Netflix. Available on Apple TV, ROKU, Amazon Fire, and Google TV, it operates just like your favorite professional platforms. Your first 15 videos or 5 GB of uploaded files are free, including unlimited streaming. For only $79.99 a year, you can upload and stream as many videos as you wish, all safe and secure in the cloud. This provides the perfect reason to start <a href=\"/about/#organize-content\">organizing your home movie and photo album collection</a>, allowing you to play professional photo slideshows directly on your TV.</p><p>To see our streaming service in action, we invite you to watch our “What is Projector” video below.</p>",
+                 "_css_classes": "pa-prose"
+                },
+                "elements": []
+               },
+               {
+                "id": "2fd6347",
+                "elType": "widget",
+                "widgetType": "video",
+                "settings": {
+                 "video_type": "youtube",
+                 "youtube_url": "https://www.youtube.com/watch?v=W-j7_-RI2tA",
+                 "yt_privacy": "yes",
+                 "rel": "",
+                 "modestbranding": "yes",
+                 "aspect_ratio": "169",
+                 "show_image_overlay": "yes",
+                 "image_overlay": {
+                  "url": "https://i.ytimg.com/vi/W-j7_-RI2tA/hqdefault.jpg",
+                  "id": ""
+                 },
+                 "show_play_icon": "yes",
+                 "_css_classes": "pa-video"
+                },
+                "elements": []
+               }
+              ]
+             },
+             {
+              "id": "8dd9d6b",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+               "_title": "item #2",
+               "content_width": "full",
+               "css_classes": "pa-accordion-body"
+              },
+              "elements": [
+               {
+                "id": "6738e96",
+                "elType": "widget",
+                "widgetType": "text-editor",
+                "settings": {
+                 "editor": "<p>To begin, create an account at <a href=\"https://www.projectorstream.com\" target=\"_blank\" rel=\"noopener\">www.projectorstream.com</a> using a computer browser (Chrome is preferred), as this is the most efficient way to access, <a href=\"/about/#organize-content\">organize</a>, and <a href=\"/gettingstarted/#create-account\">upload</a> content from local or cloud drives. While managing your streaming service is best done via desktop, you may also use the Projector mobile app for iOS or Android if your content is stored primarily on a mobile device. Once registered, your account includes a “Tutorials Projector” with multiple videos to help you. You can also find these in our Help Center’s <a href=\"/gettingstarted/\">Getting Started</a> section, which contains detailed articles on every aspect of the service.</p><p>You can also get up to speed quickly by watching our “How to Get Started” and “Uploading Videos” tutorials included here.</p>",
+                 "_css_classes": "pa-prose"
+                },
+                "elements": []
+               },
+               {
+                "id": "ea9b881",
+                "elType": "widget",
+                "widgetType": "video",
+                "settings": {
+                 "video_type": "youtube",
+                 "youtube_url": "https://www.youtube.com/watch?v=y0GzlhGgQ6k",
+                 "yt_privacy": "yes",
+                 "rel": "",
+                 "modestbranding": "yes",
+                 "aspect_ratio": "169",
+                 "show_image_overlay": "yes",
+                 "image_overlay": {
+                  "url": "https://i.ytimg.com/vi/y0GzlhGgQ6k/hqdefault.jpg",
+                  "id": ""
+                 },
+                 "show_play_icon": "yes",
+                 "_css_classes": "pa-video"
+                },
+                "elements": []
+               },
+               {
+                "id": "d858cf9",
+                "elType": "widget",
+                "widgetType": "video",
+                "settings": {
+                 "video_type": "youtube",
+                 "youtube_url": "https://www.youtube.com/watch?v=p4PYiDgN-iQ",
+                 "yt_privacy": "yes",
+                 "rel": "",
+                 "modestbranding": "yes",
+                 "aspect_ratio": "169",
+                 "show_image_overlay": "yes",
+                 "image_overlay": {
+                  "url": "https://i.ytimg.com/vi/p4PYiDgN-iQ/hqdefault.jpg",
+                  "id": ""
+                 },
+                 "show_play_icon": "yes",
+                 "_css_classes": "pa-video"
+                },
+                "elements": []
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "id": "5e2506e",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+           "content_width": "full",
+           "flex_direction": "column",
+           "css_classes": "pa-card pa-card--tight pa-help-card",
+           "_element_id": "management"
+          },
+          "elements": [
+           {
+            "id": "e901e8f",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+             "title": "Management",
+             "header_size": "h3",
+             "_css_classes": "pa-h3"
+            },
+            "elements": []
+           },
+           {
+            "id": "c4b27f4",
+            "elType": "widget",
+            "widgetType": "nested-accordion",
+            "settings": {
+             "items": [
+              {
+               "_id": "2f57e38",
+               "item_title": "Organize Your Content",
+               "element_css_id": "organize-content"
+              },
+              {
+               "_id": "1913457",
+               "item_title": "Digitizing and Organizing Your Content: Find a Pro to Help You",
+               "element_css_id": "digitizing-organizing"
+              }
+             ],
+             "title_tag": "h3",
+             "default_state": "all_collapsed",
+             "max_items_expended": "one",
+             "accordion_item_title_position_horizontal": "stretch",
+             "accordion_item_title_icon_position": "end",
+             "accordion_item_title_icon": {
+              "value": "fas fa-chevron-down",
+              "library": "fa-solid"
+             },
+             "accordion_item_title_icon_active": {
+              "value": "fas fa-chevron-up",
+              "library": "fa-solid"
+             },
+             "_css_classes": "pa-accordion"
+            },
+            "elements": [
+             {
+              "id": "92decd5",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+               "_title": "item #1",
+               "content_width": "full",
+               "css_classes": "pa-accordion-body"
+              },
+              "elements": [
+               {
+                "id": "55f3102",
+                "elType": "widget",
+                "widgetType": "text-editor",
+                "settings": {
+                 "editor": "<p>A well-organized library ensures your memories display professionally, just like movies and TV shows on a major streaming service. We recommend <a href=\"https://www.youtube.com/watch?v=X8nTR4VWakE\" target=\"_blank\" rel=\"noopener\">arranging your videos</a> into folders by category on your computer before you <a href=\"/gettingstarted/#create-account\">upload</a> them. For example, if you have a “Birthdays” folder, Projector allows you to create that <a href=\"/gettingstarted/#customizing-projector\">category</a> during your first upload; then, all additional birthday videos can be easily placed in that same section. You can further refine your library with optional sub-categories, playlists, and a “Watchlist.” Adding a required Title and description to each video makes the experience special, giving it the professional feel of your own family Netflix. This seamless process also applies to <a href=\"/gettingstarted/#uploading-photos\">uploading photo albums</a> for TV slideshows. While organizing years of content is a significant effort, Projector is the first tool that ensures your cherished movies and photos are easily <a href=\"/gettingstarted/#sharing-projector\">shared</a> and viewable on the big screen rather than staying hidden in folders.</p><p>To learn the specifics of this process, please watch our “Organizing Your Projector” tutorial video.</p>",
+                 "_css_classes": "pa-prose"
+                },
+                "elements": []
+               },
+               {
+                "id": "44cf288",
+                "elType": "widget",
+                "widgetType": "video",
+                "settings": {
+                 "video_type": "youtube",
+                 "youtube_url": "https://www.youtube.com/watch?v=d9hy229hw_g",
+                 "yt_privacy": "yes",
+                 "rel": "",
+                 "modestbranding": "yes",
+                 "aspect_ratio": "169",
+                 "show_image_overlay": "yes",
+                 "image_overlay": {
+                  "url": "https://i.ytimg.com/vi/d9hy229hw_g/hqdefault.jpg",
+                  "id": ""
+                 },
+                 "show_play_icon": "yes",
+                 "_css_classes": "pa-video"
+                },
+                "elements": []
+               }
+              ]
+             },
+             {
+              "id": "e87a5be",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+               "_title": "item #2",
+               "content_width": "full",
+               "css_classes": "pa-accordion-body"
+              },
+              "elements": [
+               {
+                "id": "d09ae08",
+                "elType": "widget",
+                "widgetType": "text-editor",
+                "settings": {
+                 "editor": "<p>Find a Pro to Help You if you have physical media like film, VHS tapes, or old photos that are not yet digitized, the task may seem daunting. However, we provide a <a href=\"https://www.projectorstream.com/directory\" target=\"_blank\" rel=\"noopener\">directory of professional organizers</a> searchable by location to find an expert nearest you. These specialists can professionally digitize and organize your content, making it ready to be <a href=\"/gettingstarted/#video-uploading\">uploaded to Projector</a>. This ensures your newly digitized memories don’t just sit on an unused hard drive or thumb drive, but are easily viewable for the whole family. <a href=\"https://www.projectorstream.com/directory\" target=\"_blank\" rel=\"noopener\">Click Here</a> to find an <a href=\"https://www.projectorstream.com/directory\" target=\"_blank\" rel=\"noopener\">Authorized Projector Professional</a> who can even assist in building your streaming service for you.</p>",
+                 "_css_classes": "pa-prose"
+                },
+                "elements": []
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "front": false
+ },
+ {
+  "slug": "gettingstarted",
+  "title": "Getting Started",
+  "menu_order": 2,
+  "data": [
+   {
+    "id": "7241800",
+    "elType": "container",
+    "isInner": false,
+    "settings": {
+     "content_width": "boxed",
+     "flex_direction": "column",
+     "css_classes": "pa-hero"
+    },
+    "elements": [
+     {
+      "id": "f69955e",
+      "elType": "widget",
+      "widgetType": "text-editor",
+      "settings": {
+       "editor": "<p><a href=\"/\">Home</a><span class=\"sep\">/</span><span>Getting Started</span></p>",
+       "_css_classes": "pa-crumbs"
+      },
+      "elements": []
+     },
+     {
+      "id": "8f9ba12",
+      "elType": "widget",
+      "widgetType": "heading",
+      "settings": {
+       "title": "Getting Started",
+       "header_size": "h1",
+       "_css_classes": "pa-hero-title"
+      },
+      "elements": []
+     },
+     {
+      "id": "b3f6955",
+      "elType": "widget",
+      "widgetType": "text-editor",
+      "settings": {
+       "editor": "<p>Everything you need to know to start using Projector to create your own home movie video streaming service on your Smart TV.</p>",
+       "_css_classes": "pa-hero-lead"
+      },
+      "elements": []
+     }
+    ]
+   },
+   {
+    "id": "bb3fb8a",
+    "elType": "container",
+    "isInner": false,
+    "settings": {
+     "content_width": "boxed",
+     "flex_direction": "column",
+     "css_classes": "pa-body"
+    },
+    "elements": [
+     {
+      "id": "f29e2c6",
+      "elType": "container",
+      "isInner": true,
+      "settings": {
+       "content_width": "full",
+       "flex_direction": "row",
+       "flex_direction_mobile": "column",
+       "css_classes": "pa-article"
+      },
+      "elements": [
+       {
+        "id": "2632b0f",
+        "elType": "container",
+        "isInner": true,
+        "settings": {
+         "content_width": "full",
+         "flex_direction": "column",
+         "css_classes": "pa-article-aside"
+        },
+        "elements": [
+         {
+          "id": "5157452",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+           "content_width": "full",
+           "flex_direction": "column",
+           "css_classes": "pa-toc"
+          },
+          "elements": [
+           {
+            "id": "b35f0f7",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+             "title": "On this page",
+             "header_size": "div",
+             "_css_classes": "pa-toc-title"
+            },
+            "elements": []
+           },
+           {
+            "id": "443e08a",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+             "title": "First Steps & Installation",
+             "header_size": "div",
+             "_css_classes": "pa-toc-group"
+            },
+            "elements": []
+           },
+           {
+            "id": "c4f6bf6",
+            "elType": "widget",
+            "widgetType": "icon-list",
+            "settings": {
+             "icon_list": [
+              {
+               "_id": "0a88201",
+               "text": "Account Setup",
+               "selected_icon": {
+                "value": "fas fa-user-plus",
+                "library": "fa-solid"
+               },
+               "link": {
+                "url": "#account-setup",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+               }
+              },
+              {
+               "_id": "97360ed",
+               "text": "TV &amp; App Setup",
+               "selected_icon": {
+                "value": "fas fa-tv",
+                "library": "fa-solid"
+               },
+               "link": {
+                "url": "#tv-app-setup",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+               }
+              }
+             ],
+             "view": "traditional",
+             "_css_classes": "pa-toc-list"
+            },
+            "elements": []
+           },
+           {
+            "id": "b66a15a",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+             "title": "Content Management",
+             "header_size": "div",
+             "_css_classes": "pa-toc-group"
+            },
+            "elements": []
+           },
+           {
+            "id": "f2977d1",
+            "elType": "widget",
+            "widgetType": "icon-list",
+            "settings": {
+             "icon_list": [
+              {
+               "_id": "4cb11d6",
+               "text": "Uploading Media",
+               "selected_icon": {
+                "value": "fas fa-cloud-upload-alt",
+                "library": "fa-solid"
+               },
+               "link": {
+                "url": "#uploading-media",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+               }
+              },
+              {
+               "_id": "30c41e5",
+               "text": "Technical Standards",
+               "selected_icon": {
+                "value": "fas fa-sliders-h",
+                "library": "fa-solid"
+               },
+               "link": {
+                "url": "#technical-standards",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+               }
+              }
+             ],
+             "view": "traditional",
+             "_css_classes": "pa-toc-list"
+            },
+            "elements": []
+           },
+           {
+            "id": "562748b",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+             "title": "Customizing & Sharing",
+             "header_size": "div",
+             "_css_classes": "pa-toc-group"
+            },
+            "elements": []
+           },
+           {
+            "id": "8fb4838",
+            "elType": "widget",
+            "widgetType": "icon-list",
+            "settings": {
+             "icon_list": [
+              {
+               "_id": "52daa9a",
+               "text": "Organization",
+               "selected_icon": {
+                "value": "fas fa-th-large",
+                "library": "fa-solid"
+               },
+               "link": {
+                "url": "#organization",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+               }
+              },
+              {
+               "_id": "0ad411b",
+               "text": "Privacy &amp; Sharing",
+               "selected_icon": {
+                "value": "fas fa-users",
+                "library": "fa-solid"
+               },
+               "link": {
+                "url": "#privacy-sharing",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+               }
+              }
+             ],
+             "view": "traditional",
+             "_css_classes": "pa-toc-list"
+            },
+            "elements": []
+           },
+           {
+            "id": "daccf39",
+            "elType": "widget",
+            "widgetType": "icon-list",
+            "settings": {
+             "icon_list": [
+              {
+               "_id": "a189ca4",
+               "text": "Help Center Home",
+               "selected_icon": {
+                "value": "fas fa-arrow-left",
+                "library": "fa-solid"
+               },
+               "link": {
+                "url": "/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+               }
+              }
+             ],
+             "view": "traditional",
+             "_css_classes": "pa-toc-list pa-toc-back"
+            },
+            "elements": []
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "id": "b4e2045",
+        "elType": "container",
+        "isInner": true,
+        "settings": {
+         "content_width": "full",
+         "flex_direction": "column",
+         "css_classes": "pa-article-main"
+        },
+        "elements": [
+         {
+          "id": "8b46116",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+           "title": "First Steps & Installation",
+           "header_size": "h2",
+           "_css_classes": "pa-group-label"
+          },
+          "elements": []
+         },
+         {
+          "id": "60602d4",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+           "content_width": "full",
+           "flex_direction": "column",
+           "css_classes": "pa-card pa-card--tight pa-help-card",
+           "_element_id": "account-setup"
+          },
+          "elements": [
+           {
+            "id": "4db5ce8",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+             "title": "Account Setup",
+             "header_size": "h3",
+             "_css_classes": "pa-h3"
+            },
+            "elements": []
+           },
+           {
+            "id": "36e2c01",
+            "elType": "widget",
+            "widgetType": "nested-accordion",
+            "settings": {
+             "items": [
+              {
+               "_id": "7e8eec2",
+               "item_title": "Create an Account and Start Uploading Videos",
+               "element_css_id": "create-account"
+              },
+              {
+               "_id": "783272c",
+               "item_title": "Succession Planning",
+               "element_css_id": "succession-planning"
+              },
+              {
+               "_id": "3cc1338",
+               "item_title": "Sending Projector as a Gift",
+               "element_css_id": "sending-projector-as-a-gift"
+              }
+             ],
+             "title_tag": "h3",
+             "default_state": "all_collapsed",
+             "max_items_expended": "one",
+             "accordion_item_title_position_horizontal": "stretch",
+             "accordion_item_title_icon_position": "end",
+             "accordion_item_title_icon": {
+              "value": "fas fa-chevron-down",
+              "library": "fa-solid"
+             },
+             "accordion_item_title_icon_active": {
+              "value": "fas fa-chevron-up",
+              "library": "fa-solid"
+             },
+             "_css_classes": "pa-accordion"
+            },
+            "elements": [
+             {
+              "id": "f6093a1",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+               "_title": "item #1",
+               "content_width": "full",
+               "css_classes": "pa-accordion-body"
+              },
+              "elements": [
+               {
+                "id": "5353184",
+                "elType": "widget",
+                "widgetType": "text-editor",
+                "settings": {
+                 "editor": "<p>The best way to start and manage your Projector account is on our website at <a href=\"https://www.projectorstream.com/\" target=\"_blank\" rel=\"noopener\">projectorstream.com</a> from your computer (Chrome is preferred). After creating your account, you can begin <a href=\"/gettingstarted/#video-uploading\">uploading content</a> via the “Upload” button or through the Content Dashboard. For only $79.99 a year, you can upgrade from the free tier (15 videos/5 GB) to unlimited uploads and streaming, all secured in the cloud. We also offer the Projector Uploader software for Mac and Windows to help you sync files directly from your local drives.</p><p>Watch the tutorial video below to see exactly how to get started and begin your first upload.</p>",
+                 "_css_classes": "pa-prose"
+                },
+                "elements": []
+               },
+               {
+                "id": "4021c63",
+                "elType": "widget",
+                "widgetType": "video",
+                "settings": {
+                 "video_type": "youtube",
+                 "youtube_url": "https://www.youtube.com/watch?v=y0GzlhGgQ6k",
+                 "yt_privacy": "yes",
+                 "rel": "",
+                 "modestbranding": "yes",
+                 "aspect_ratio": "169",
+                 "show_image_overlay": "yes",
+                 "image_overlay": {
+                  "url": "https://i.ytimg.com/vi/y0GzlhGgQ6k/hqdefault.jpg",
+                  "id": ""
+                 },
+                 "show_play_icon": "yes",
+                 "_css_classes": "pa-video"
+                },
+                "elements": []
+               },
+               {
+                "id": "9bb473f",
+                "elType": "widget",
+                "widgetType": "video",
+                "settings": {
+                 "video_type": "youtube",
+                 "youtube_url": "https://www.youtube.com/watch?v=p4PYiDgN-iQ",
+                 "yt_privacy": "yes",
+                 "rel": "",
+                 "modestbranding": "yes",
+                 "aspect_ratio": "169",
+                 "show_image_overlay": "yes",
+                 "image_overlay": {
+                  "url": "https://i.ytimg.com/vi/p4PYiDgN-iQ/hqdefault.jpg",
+                  "id": ""
+                 },
+                 "show_play_icon": "yes",
+                 "_css_classes": "pa-video"
+                },
+                "elements": []
+               }
+              ]
+             },
+             {
+              "id": "11d3b3d",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+               "_title": "item #2",
+               "content_width": "full",
+               "css_classes": "pa-accordion-body"
+              },
+              "elements": [
+               {
+                "id": "1b93775",
+                "elType": "widget",
+                "widgetType": "text-editor",
+                "settings": {
+                 "editor": "<p>We film hours of family videos and thousands of family photos so that we can capture special moments then go back and view, and share these memories with others. We now have the opportunity to make sure that each generation that comes after can also share in these cherished memories we have spent so much time capturing. Videos and photos is how we document our lives and the lives of our loved ones. We would all have loved the opportunity to be able to see events in the lives of the many generations of our family that came before us. Now with Projector we can give this gift to those that come after. Most of us keep these cherished memories, videos, and photos on computer and cloud drives. Or perhaps they are simply stored in our mobile devices and not easy for anyone to view on the big screen like your favorite video streaming services like Netflix. There is also no built in mechanism to make sure they are passed onto future generations. Projector changes all of that. With your Projector account, you can name as many successors as you would like to keep your account active forever. To name a successor, they must first be an active invited viewer of your Projector account.</p><p>You can manage all of this in the Content Dashboard&gt;Viewers</p>",
+                 "_css_classes": "pa-prose"
+                },
+                "elements": []
+               },
+               {
+                "id": "a80e78a",
+                "elType": "widget",
+                "widgetType": "video",
+                "settings": {
+                 "video_type": "youtube",
+                 "youtube_url": "https://www.youtube.com/watch?v=mxS5nTVeCJE",
+                 "yt_privacy": "yes",
+                 "rel": "",
+                 "modestbranding": "yes",
+                 "aspect_ratio": "169",
+                 "show_image_overlay": "yes",
+                 "image_overlay": {
+                  "url": "https://i.ytimg.com/vi/mxS5nTVeCJE/hqdefault.jpg",
+                  "id": ""
+                 },
+                 "show_play_icon": "yes",
+                 "_css_classes": "pa-video"
+                },
+                "elements": []
+               }
+              ]
+             },
+             {
+              "id": "be9db61",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+               "_title": "item #3",
+               "content_width": "full",
+               "css_classes": "pa-accordion-body"
+              },
+              "elements": [
+               {
+                "id": "b378499",
+                "elType": "widget",
+                "widgetType": "text-editor",
+                "settings": {
+                 "editor": "<p>Projector is more than a gift, it’s a way to preserve and share life’s most meaningful memories. Whether you’re celebrating a wedding, welcoming a new baby, honoring a retirement, remembering a loved one, or marking any special milestone, Projector lets you create a personalized streaming experience filled with videos, photos, and recorded messages from family and friends. Recipients can watch these memories on their TV just like they would watch their favorite streaming services, making it easy for every generation to enjoy and revisit moments that matter.</p><p>When you send Projector as a gift, you can personalize the experience with your own message and even invite others to contribute memories, creating a truly collaborative and meaningful keepsake. Watch the tutorial below to learn how to send Projector as a gift and start building a collection of memories that can be enjoyed for years to come.</p>",
+                 "_css_classes": "pa-prose"
+                },
+                "elements": []
+               },
+               {
+                "id": "22cee55",
+                "elType": "widget",
+                "widgetType": "video",
+                "settings": {
+                 "video_type": "youtube",
+                 "youtube_url": "https://www.youtube.com/watch?v=nncYoKw-ikc",
+                 "yt_privacy": "yes",
+                 "rel": "",
+                 "modestbranding": "yes",
+                 "aspect_ratio": "169",
+                 "show_image_overlay": "yes",
+                 "image_overlay": {
+                  "url": "https://i.ytimg.com/vi/nncYoKw-ikc/hqdefault.jpg",
+                  "id": ""
+                 },
+                 "show_play_icon": "yes",
+                 "_css_classes": "pa-video"
+                },
+                "elements": []
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "id": "3ea79c3",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+           "content_width": "full",
+           "flex_direction": "column",
+           "css_classes": "pa-card pa-card--tight pa-help-card",
+           "_element_id": "tv-app-setup"
+          },
+          "elements": [
+           {
+            "id": "0c77f4d",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+             "title": "TV & App Setup",
+             "header_size": "h3",
+             "_css_classes": "pa-h3"
+            },
+            "elements": []
+           },
+           {
+            "id": "efc35eb",
+            "elType": "widget",
+            "widgetType": "nested-accordion",
+            "settings": {
+             "items": [
+              {
+               "_id": "4f30036",
+               "item_title": "Download and Install the Projector TV Streaming App on Your TV",
+               "element_css_id": "download-install"
+              },
+              {
+               "_id": "fedf7be",
+               "item_title": "Viewing Different Projectors",
+               "element_css_id": "different-projectors"
+              }
+             ],
+             "title_tag": "h3",
+             "default_state": "all_collapsed",
+             "max_items_expended": "one",
+             "accordion_item_title_position_horizontal": "stretch",
+             "accordion_item_title_icon_position": "end",
+             "accordion_item_title_icon": {
+              "value": "fas fa-chevron-down",
+              "library": "fa-solid"
+             },
+             "accordion_item_title_icon_active": {
+              "value": "fas fa-chevron-up",
+              "library": "fa-solid"
+             },
+             "_css_classes": "pa-accordion"
+            },
+            "elements": [
+             {
+              "id": "feb4c94",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+               "_title": "item #1",
+               "content_width": "full",
+               "css_classes": "pa-accordion-body"
+              },
+              "elements": [
+               {
+                "id": "dd10650",
+                "elType": "widget",
+                "widgetType": "text-editor",
+                "settings": {
+                 "editor": "<p>To enjoy the ultimate viewing experience, search for “Projector” in the App Store of your ROKU, Apple TV, Amazon Fire Stick, or Google TV. Look for our logo to ensure you are downloading the correct app, then simply log in using the email and password you created on our website. This transforms your home movie collection into your very own streaming service on the big screen. Refer to the device-specific tutorial videos below for assistance with the installation:</p><table><tbody><tr><td><strong>Amazon Fire:</strong> Learn how to Install the Projector TV App (play video)</td><td><iframe src=\"https://www.youtube-nocookie.com/embed/lLv7sMpJFW0\"></iframe></td></tr><tr><td><strong>Apple TV:</strong> Learn how to Install the Projector TV App (play video)</td><td><iframe src=\"https://www.youtube-nocookie.com/embed/52U8paQF0P0\"></iframe></td></tr><tr><td><strong>ROKU:</strong> Learn how to Install the Projector TV App (play video)</td><td><strong><iframe src=\"https://www.youtube-nocookie.com/embed/4nc3JaMxV6Q\"></iframe></strong></td></tr><tr><td><strong>Google TV:</strong> Learn how to Install the Projector TV App (play video)</td><td><strong><iframe src=\"https://www.youtube-nocookie.com/embed/eLzongkVHog\"></iframe></strong></td></tr></tbody></table>",
+                 "_css_classes": "pa-prose"
+                },
+                "elements": []
+               }
+              ]
+             },
+             {
+              "id": "9756012",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+               "_title": "item #2",
+               "content_width": "full",
+               "css_classes": "pa-accordion-body"
+              },
+              "elements": [
+               {
+                "id": "59492f1",
+                "elType": "widget",
+                "widgetType": "text-editor",
+                "settings": {
+                 "editor": "<p>After you have created your Projector account, you have the ability to request access to view others Projector, or others can invite you to view their Projector. You must be granted access to view others Projector. They can also determine what videos and photo albums you have access to view. Likewise, you determine who to grant access to view your Projector and what videos and photo albums they have access to view.</p><p>You can manage sharing your Projector in the Content Dashboard&gt;Viewers. Once you invite a viewer, they will receive an e-mail notification. If they already have an existing Projector account, they can sign on to their account and accept the invitation to view by either selecting the notifications icon or in the Content Dashboard.</p>",
+                 "_css_classes": "pa-prose"
+                },
+                "elements": []
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "id": "e09b756",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+           "title": "Content Management",
+           "header_size": "h2",
+           "_css_classes": "pa-group-label"
+          },
+          "elements": []
+         },
+         {
+          "id": "97c09fb",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+           "content_width": "full",
+           "flex_direction": "column",
+           "css_classes": "pa-card pa-card--tight pa-help-card",
+           "_element_id": "uploading-media"
+          },
+          "elements": [
+           {
+            "id": "f24950a",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+             "title": "Uploading Media",
+             "header_size": "h3",
+             "_css_classes": "pa-h3"
+            },
+            "elements": []
+           },
+           {
+            "id": "d03619e",
+            "elType": "widget",
+            "widgetType": "nested-accordion",
+            "settings": {
+             "items": [
+              {
+               "_id": "1b5126c",
+               "item_title": "Video Uploading (1 to 100 at a time), Projector Uploader Software Tools",
+               "element_css_id": "video-uploading"
+              },
+              {
+               "_id": "051b7e4",
+               "item_title": "Uploading Photos",
+               "element_css_id": "uploading-photos"
+              },
+              {
+               "_id": "67a1501",
+               "item_title": "Find a Video/Photo Professional to help you digitize, organize, build your Projector Account",
+               "element_css_id": "find-video"
+              },
+              {
+               "_id": "2a1ed86",
+               "item_title": "Telling Your Story",
+               "element_css_id": "telling-your-story"
+              }
+             ],
+             "title_tag": "h3",
+             "default_state": "all_collapsed",
+             "max_items_expended": "one",
+             "accordion_item_title_position_horizontal": "stretch",
+             "accordion_item_title_icon_position": "end",
+             "accordion_item_title_icon": {
+              "value": "fas fa-chevron-down",
+              "library": "fa-solid"
+             },
+             "accordion_item_title_icon_active": {
+              "value": "fas fa-chevron-up",
+              "library": "fa-solid"
+             },
+             "_css_classes": "pa-accordion"
+            },
+            "elements": [
+             {
+              "id": "5122b34",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+               "_title": "item #1",
+               "content_width": "full",
+               "css_classes": "pa-accordion-body"
+              },
+              "elements": [
+               {
+                "id": "3d8a81a",
+                "elType": "widget",
+                "widgetType": "text-editor",
+                "settings": {
+                 "editor": "<p>Projector allows you to upload one video or up to 100 videos at a time, but that does not mean you can not upload many videos quickly. Uploading one video at a time is the easiest way to enter all pertinent information including changing the title of the video, choose between multiple Thumbnails or choose your own, enter a description of the video (strongly recommended for the best viewing experience), video category for better organizing and archiving, sub-category for better viewing and searching options, and Visibility options to utilize our advance sharing options. When uploading 2 or more videos at a time, you will have limited ability to enter all pertinent information, but can go back and edit any of the above listed information.</p><p>We highly recommend reviewing the Help Center article on Video Streaming Standards to make sure your uploading of videos is easy and successful.</p><p>We also have the Projector Uploader Software tool that you can install on your Mac or Windows computer to help you find and upload your memories from your local computer and cloud services.</p><p>To publish a video that has been uploaded and processed, we suggest you enter the following fields for each video to make the viewing experience as best possible for you and your family members:</p><p>1. Title (We auto import the file name, but you can make changes)</p><p>2. Select a Thumbnail we auto generate or you can select your own Thumbnail</p><p>3. Select a Category (If you do not select your own custom category, your video will only be seen in the “All Videos” Category)</p><p>4. Select a Visibility choice. Because Projector is a private library meant mostly for family and close family friends, we suggest selecting “All Invited Viewers Can View” unless there are specific videos you want to avoid sharing with all your Viewers.</p>",
+                 "_css_classes": "pa-prose"
+                },
+                "elements": []
+               }
+              ]
+             },
+             {
+              "id": "86e2a39",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+               "_title": "item #2",
+               "content_width": "full",
+               "css_classes": "pa-accordion-body"
+              },
+              "elements": [
+               {
+                "id": "63385d5",
+                "elType": "widget",
+                "widgetType": "text-editor",
+                "settings": {
+                 "editor": "<p>Traditionally we do not think of having photos, photo albums or playing slideshows when using a TV video streaming service like Netflix. However, Projector is not like traditional video streaming services. This is your content and your content is complete with many photos and photo albums. Yet it is not always easy to find, view, or share these photos and albums. Few people know how to play a photo album slideshow on their TV. Projector gives you the ability to play slideshows on your TV. Projector also gives you the ability to customize where on your Projector the Photo Albums appear to make them easily viewable by all. You can accomplish this in the Content Dashboard&gt;Layout.</p><p>Be sure to download the Projector TV app on your TV streaming device (Apple TV, ROKU, Amazon Fire Stick and Google TV). <a href=\"/gettingstarted/#download-install\">Click Here</a> for more information on how to install an App on your Smart TV Streaming Device. Log into the Smart TV app using your same login credentials and just like that, you have your very own video streaming service for your home movies and photos on your big screen TV. It’s Netflix for your families photos!</p>",
+                 "_css_classes": "pa-prose"
+                },
+                "elements": []
+               },
+               {
+                "id": "dba6fac",
+                "elType": "widget",
+                "widgetType": "video",
+                "settings": {
+                 "video_type": "youtube",
+                 "youtube_url": "https://www.youtube.com/watch?v=y0GzlhGgQ6k",
+                 "yt_privacy": "yes",
+                 "rel": "",
+                 "modestbranding": "yes",
+                 "aspect_ratio": "169",
+                 "show_image_overlay": "yes",
+                 "image_overlay": {
+                  "url": "https://i.ytimg.com/vi/y0GzlhGgQ6k/hqdefault.jpg",
+                  "id": ""
+                 },
+                 "show_play_icon": "yes",
+                 "_css_classes": "pa-video"
+                },
+                "elements": []
+               }
+              ]
+             },
+             {
+              "id": "a979d17",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+               "_title": "item #3",
+               "content_width": "full",
+               "css_classes": "pa-accordion-body"
+              },
+              "elements": [
+               {
+                "id": "bac56f5",
+                "elType": "widget",
+                "widgetType": "text-editor",
+                "settings": {
+                 "editor": "<p>If you have physical media like film or VHS tapes that are not yet digitized, it is time to take on the project! We provide a <a href=\"https://www.projectorstream.com/directory\" target=\"_blank\" rel=\"noopener\">directory of professionals</a> searchable by location who can assist with both digitization and organization. These experts can even help you build your Projector account from scratch, ensuring your newly converted memories are ready for the big screen.</p>",
+                 "_css_classes": "pa-prose"
+                },
+                "elements": []
+               }
+              ]
+             },
+             {
+              "id": "ce6d8a9",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+               "_title": "item #4",
+               "content_width": "full",
+               "css_classes": "pa-accordion-body"
+              },
+              "elements": [
+               {
+                "id": "b2d708f",
+                "elType": "widget",
+                "widgetType": "text-editor",
+                "settings": {
+                 "editor": "<p><strong>Tell Your Story</strong> is a guided storytelling feature available from the <strong>Upload</strong> menu that helps you preserve your life’s most meaningful memories in your own words.</p><p>Instead of wondering what to record, Projector provides thoughtfully organized story collections—such as <strong>Beginning</strong>, <strong>Love &amp; Relationships</strong>, and <strong>Other</strong>—along with guided questions that make it easy to share your experiences. You can also create your own custom story collections or let AI generate personalized prompts around any topic you’d like to talk about.</p><p>Each answer is recorded as an individual video and automatically organized into its own category in your Projector library, making your stories easy to revisit and share with family for generations to come.</p><p>Watch the tutorial below to learn how to use <strong>Tell Your Story:</strong></p>",
+                 "_css_classes": "pa-prose"
+                },
+                "elements": []
+               },
+               {
+                "id": "41619e4",
+                "elType": "widget",
+                "widgetType": "video",
+                "settings": {
+                 "video_type": "youtube",
+                 "youtube_url": "https://www.youtube.com/watch?v=xrmRJ0Bff4c",
+                 "yt_privacy": "yes",
+                 "rel": "",
+                 "modestbranding": "yes",
+                 "aspect_ratio": "169",
+                 "show_image_overlay": "yes",
+                 "image_overlay": {
+                  "url": "https://i.ytimg.com/vi/xrmRJ0Bff4c/hqdefault.jpg",
+                  "id": ""
+                 },
+                 "show_play_icon": "yes",
+                 "_css_classes": "pa-video"
+                },
+                "elements": []
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "id": "8060bab",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+           "content_width": "full",
+           "flex_direction": "column",
+           "css_classes": "pa-card pa-card--tight pa-help-card",
+           "_element_id": "technical-standards"
+          },
+          "elements": [
+           {
+            "id": "92ba352",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+             "title": "Technical Standards",
+             "header_size": "h3",
+             "_css_classes": "pa-h3"
+            },
+            "elements": []
+           },
+           {
+            "id": "efaaac4",
+            "elType": "widget",
+            "widgetType": "nested-accordion",
+            "settings": {
+             "items": [
+              {
+               "_id": "451b82f",
+               "item_title": "Video Streaming Standards: A Guide to Maximize Projector Video Streaming",
+               "element_css_id": "video-streaming"
+              },
+              {
+               "_id": "e2bdfa4",
+               "item_title": "Photo Album File Specification Standards: A Guide to Maximize Projector's Photo Album Slideshows",
+               "element_css_id": "photo-album"
+              }
+             ],
+             "title_tag": "h3",
+             "default_state": "all_collapsed",
+             "max_items_expended": "one",
+             "accordion_item_title_position_horizontal": "stretch",
+             "accordion_item_title_icon_position": "end",
+             "accordion_item_title_icon": {
+              "value": "fas fa-chevron-down",
+              "library": "fa-solid"
+             },
+             "accordion_item_title_icon_active": {
+              "value": "fas fa-chevron-up",
+              "library": "fa-solid"
+             },
+             "_css_classes": "pa-accordion"
+            },
+            "elements": [
+             {
+              "id": "855db8c",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+               "_title": "item #1",
+               "content_width": "full",
+               "css_classes": "pa-accordion-body"
+              },
+              "elements": [
+               {
+                "id": "f20940a",
+                "elType": "widget",
+                "widgetType": "text-editor",
+                "settings": {
+                 "editor": "<p>The magic of Projector is that it allows you to create your very own video streaming app on a Smart TV—it works just like Netflix. To ensure the best experience, please follow these uploading standards.</p><h3>1. General Recommendations</h3><ul><li><p>Format: We recommend standard mp4 digital files with H.264 compression (the same format used by YouTube and Netflix).</p></li><li><p>File Size: We strongly suggest keeping files below 3GB. While larger files are allowed, they will significantly increase upload times.</p></li></ul><h3>2. Video Transfer Settings</h3><p>If you are converting old tapes or film, use these specifications to maintain quality while keeping the file size efficient:</p><h4>VHS &amp; Camcorder Tapes</h4><ul><li><p>Standard Definition: 720×480 | 29.97 fps | 1,500 – 2,000 kbps bitrate.</p></li><li><p>High Definition: 1280x720p | 29.97 fps | 3,000 kbps bitrate.</p></li></ul><h4>16mm, 8mm &amp; Super 8mm Film</h4><ul><li><p>Resolution: 1440×1080 | 29.7 fps | 6,000 kbps bitrate.</p></li><li><p>Codec: Always set to H.264.</p></li></ul><h3>3. Key Definitions</h3><ul><li><p>Bitrate: The amount of data transferred per second.</p></li><li><p>Video Resolution: The number of pixels on the screen (Width x Height).</p></li><li><p>File Size: Determined by resolution and bitrate. Higher settings equal larger files.</p></li></ul><h3>4. Internet Speed Recommendations</h3><p>Your upload speed affects how quickly your videos reach your Projector account:</p><ul><li><p>For SD (480p) or HD (720p): Between 2 Mbps and 5 Mbps upload speed is recommended.</p></li><li><p>For High-End HD (720p) at 3,000 kbps: Between 7 Mbps and 15 Mbps is recommended.</p></li></ul><blockquote><p>Test your Internet Speed here: <a href=\"http://www.speedtest.net/\" target=\"_blank\" rel=\"noopener\">www.speedtest.net/</a></p></blockquote>",
+                 "_css_classes": "pa-prose"
+                },
+                "elements": []
+               }
+              ]
+             },
+             {
+              "id": "109f25f",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+               "_title": "item #2",
+               "content_width": "full",
+               "css_classes": "pa-accordion-body"
+              },
+              "elements": [
+               {
+                "id": "e28c3a0",
+                "elType": "widget",
+                "widgetType": "text-editor",
+                "settings": {
+                 "editor": "<p>Projector allows you to upload Photo Albums and play them just like a Video Streaming Service like Netflix plays a TV Show or Movie, which makes Projector the easiest way to play a photo album slide show on your Smart TV. Below are some standards that will assist you when uploading photo files. Your photo file should meet all these recommendations below. Following the suggestions below should not affect the original photo quality and play beautifully on your TV or other streaming device:</p><p>File Format Recommended: JPG, PNG</p><p>File Size Recommended: Less than 50 MB</p><p>Pixel Height: 2000 or less</p><p>Pixel Length: 2000 or less</p>",
+                 "_css_classes": "pa-prose"
+                },
+                "elements": []
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "id": "7da5780",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+           "title": "Customizing & Sharing",
+           "header_size": "h2",
+           "_css_classes": "pa-group-label"
+          },
+          "elements": []
+         },
+         {
+          "id": "d0b1db9",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+           "content_width": "full",
+           "flex_direction": "column",
+           "css_classes": "pa-card pa-card--tight pa-help-card",
+           "_element_id": "organization"
+          },
+          "elements": [
+           {
+            "id": "e2070b5",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+             "title": "Organization",
+             "header_size": "h3",
+             "_css_classes": "pa-h3"
+            },
+            "elements": []
+           },
+           {
+            "id": "d794f8a",
+            "elType": "widget",
+            "widgetType": "nested-accordion",
+            "settings": {
+             "items": [
+              {
+               "_id": "297577b",
+               "item_title": "Creating Categories and Organizing Your Videos and Playlists",
+               "element_css_id": "creating-categories"
+              },
+              {
+               "_id": "ff0c593",
+               "item_title": "Customizing Your Projector",
+               "element_css_id": "customizing-projector"
+              }
+             ],
+             "title_tag": "h3",
+             "default_state": "all_collapsed",
+             "max_items_expended": "one",
+             "accordion_item_title_position_horizontal": "stretch",
+             "accordion_item_title_icon_position": "end",
+             "accordion_item_title_icon": {
+              "value": "fas fa-chevron-down",
+              "library": "fa-solid"
+             },
+             "accordion_item_title_icon_active": {
+              "value": "fas fa-chevron-up",
+              "library": "fa-solid"
+             },
+             "_css_classes": "pa-accordion"
+            },
+            "elements": [
+             {
+              "id": "4d45aab",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+               "_title": "item #1",
+               "content_width": "full",
+               "css_classes": "pa-accordion-body"
+              },
+              "elements": [
+               {
+                "id": "1916350",
+                "elType": "widget",
+                "widgetType": "text-editor",
+                "settings": {
+                 "editor": "<p>Projector allows you to customize your own TV streaming service experience so your home movies and photo albums have that same professional video streaming service look and feel as Netflix, Hulu, Disney+, etc. You get to customize your Projectors appearance, create video categories, select category background, etc. We will continue developing new and creative ways for you to customize your Projector including adding themes, and other features.</p><p>Prior to begin uploading your content, you may want to consider organizing your videos on folders on your computer first. Place your content in folders based on what categories you want those videos to appear in your Projector. If you plan to have a category named Birthday’s, then put all the associated videos in a folder titled Birthday’s. When you upload your first Birthday video, Projector allows you to create that Category and then all additional Birthday videos can easily be placed in that same category. If you do not select a Category for a video, that video will still be able to be streamed in the “All Videos” Category on your Projector account. Projector also allows you to assign each video a sub-category (optional) to help you identify and search for videos later on. In addition to Categories, you can also place videos in Playlists or add to your Watchlist to help you find and enjoy videos. Having a good title (required) and description (optional) of each video makes the video more special when you play it because it gives you that professional TV streaming service feel, like you have your own Netflix made just for your family. You will find the upload and organizing process seamless, quick, and easy. Especially if you first organize your content prior to uploading. This is why using your computer (Chrome Browser Recommended) is a great way to setup your Projector account. Then you can easily view your Projector on your favorite Smart TV streaming device with the Projector TV app (Apple TV, ROKU, Amazon Fire and Google TV). This will be so special for your entire family to enjoy. The same is true when uploading Photo Albums. Your photos may already be organized in a photo application or on folders in your computer. You can upload as many photos as you choose at one time and place them into a Projector Photo Album that you create. You can later add additional photos to existing Photo Albums. The Albums will exist on your Projector and can be played as Slideshows on any of your devices and TV’s. Also see <a href=\"/about/#organize-content\">Organize Your Content</a>.</p>",
+                 "_css_classes": "pa-prose"
+                },
+                "elements": []
+               }
+              ]
+             },
+             {
+              "id": "b57281a",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+               "_title": "item #2",
+               "content_width": "full",
+               "css_classes": "pa-accordion-body"
+              },
+              "elements": [
+               {
+                "id": "51cd128",
+                "elType": "widget",
+                "widgetType": "text-editor",
+                "settings": {
+                 "editor": "<p>Projector is your own personal video streaming service. Once you set-up your projector and start uploading content, you now have your own “Netflix” to easily view and share your content. Having your own Video Streaming service for your own home movies and photos is awesome. We wanted to help make it as cool as possible by allowing you to customize Projector as much as possible. We are committed to continue developing more customizations including soon to be announced themes and other really cool stuff. For now, you can create your own video Categories, just like you see in Netflix, Disney+ and others and place your videos to help make the viewing experience for you, your family and those you share your Projector with truly special. By giving each video you upload a specific well thought out title (required) and a full description (optional) of the video, it makes your home movies look just like a Movie or TV Show you see on your favorite video streaming apps.</p><p>Once you have created your Projector account, go to our easy to navigate Content Dashboard to customize your videos, layouts, and other options soon to come. You can manage all things in the Projector Dashboard. You can choose the order of the video categories and the order of the videos in each category. Youc an also control the placement of the Photo Albums you upload.</p>",
+                 "_css_classes": "pa-prose"
+                },
+                "elements": []
+               },
+               {
+                "id": "a146090",
+                "elType": "widget",
+                "widgetType": "video",
+                "settings": {
+                 "video_type": "youtube",
+                 "youtube_url": "https://www.youtube.com/watch?v=d9hy229hw_g",
+                 "yt_privacy": "yes",
+                 "rel": "",
+                 "modestbranding": "yes",
+                 "aspect_ratio": "169",
+                 "show_image_overlay": "yes",
+                 "image_overlay": {
+                  "url": "https://i.ytimg.com/vi/d9hy229hw_g/hqdefault.jpg",
+                  "id": ""
+                 },
+                 "show_play_icon": "yes",
+                 "_css_classes": "pa-video"
+                },
+                "elements": []
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "id": "0c467ef",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+           "content_width": "full",
+           "flex_direction": "column",
+           "css_classes": "pa-card pa-card--tight pa-help-card",
+           "_element_id": "privacy-sharing"
+          },
+          "elements": [
+           {
+            "id": "93ea85c",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+             "title": "Privacy & Sharing",
+             "header_size": "h3",
+             "_css_classes": "pa-h3"
+            },
+            "elements": []
+           },
+           {
+            "id": "bf27267",
+            "elType": "widget",
+            "widgetType": "nested-accordion",
+            "settings": {
+             "items": [
+              {
+               "_id": "9c2335a",
+               "item_title": "Sharing Projector with Family and Friends",
+               "element_css_id": "sharing-projector"
+              },
+              {
+               "_id": "40beb26",
+               "item_title": "How to Delete Photos &amp; Videos from your Projector Account",
+               "element_css_id": "delete-photos"
+              }
+             ],
+             "title_tag": "h3",
+             "default_state": "all_collapsed",
+             "max_items_expended": "one",
+             "accordion_item_title_position_horizontal": "stretch",
+             "accordion_item_title_icon_position": "end",
+             "accordion_item_title_icon": {
+              "value": "fas fa-chevron-down",
+              "library": "fa-solid"
+             },
+             "accordion_item_title_icon_active": {
+              "value": "fas fa-chevron-up",
+              "library": "fa-solid"
+             },
+             "_css_classes": "pa-accordion"
+            },
+            "elements": [
+             {
+              "id": "6156538",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+               "_title": "item #1",
+               "content_width": "full",
+               "css_classes": "pa-accordion-body"
+              },
+              "elements": [
+               {
+                "id": "5403436",
+                "elType": "widget",
+                "widgetType": "text-editor",
+                "settings": {
+                 "editor": "<p>Projector makes it easy for your family and friends to view your Projector account on their Smart TV streaming device. Likewise, friends and family can easily share their content with you. After you have created your Projector account, you can invite others to view your Projector and the content you have chosen to give them access too. You decide what content each viewer has access to see using our Groups feature. This is known as “Visibility” settings in Projector. When you upload a video or photo album, you can decide right then if everyone who has access to your Projector can see that content, if only you have access, or choose a specific Group of people who have access to view that content. You can set up as many different Group’s as you like (Content Dashboard&gt;Viewers&gt;Groups). Once you begin using Projector you will see just how easy it to invite users, set up which content they have access to, and the ability to delete viewers.</p><p>Remember, this is not social media so creating groups is to block or limit certain videos from being seen by some of your followers. If you want a video to only be seen by some of your viewers, you assign that video to a group.</p><p>After you have created your Projector account, you have the ability to request access to view others Projector, or others can invite you to view their Projector. You must be granted access to view others Projector. They can also determine what videos and photo albums you have access to view. Likewise, you determine who to grant access to view your Projector and what videos and photo albums they have access to view.</p><p>You can manage sharing your Projector in the Content Dashboard&gt;Viewers. Once you invite a viewer, they will receive an e-mail notification. If they already have an existing Projector account, they can sign on to their account and accept the invitation to view by either selecting the notifications icon or in the Content Dashboard:</p>",
+                 "_css_classes": "pa-prose"
+                },
+                "elements": []
+               },
+               {
+                "id": "32691dc",
+                "elType": "widget",
+                "widgetType": "video",
+                "settings": {
+                 "video_type": "youtube",
+                 "youtube_url": "https://www.youtube.com/watch?v=o3w5mspVx0s",
+                 "yt_privacy": "yes",
+                 "rel": "",
+                 "modestbranding": "yes",
+                 "aspect_ratio": "169",
+                 "show_image_overlay": "yes",
+                 "image_overlay": {
+                  "url": "https://i.ytimg.com/vi/o3w5mspVx0s/hqdefault.jpg",
+                  "id": ""
+                 },
+                 "show_play_icon": "yes",
+                 "_css_classes": "pa-video"
+                },
+                "elements": []
+               }
+              ]
+             },
+             {
+              "id": "db1147a",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+               "_title": "item #2",
+               "content_width": "full",
+               "css_classes": "pa-accordion-body"
+              },
+              "elements": [
+               {
+                "id": "430bf3a",
+                "elType": "widget",
+                "widgetType": "text-editor",
+                "settings": {
+                 "editor": "<p>The best way to manage your Projector account is on our web site at <a href=\"https://projectorstream.com/\" target=\"_blank\" rel=\"noopener\">projectorstream.com</a> from your computer (Chrome Internet browser is preferred).</p><div><strong>To delete a photo from a Photo Album:</strong></div><div> </div><div>1. Log into your Projector account on your computer</div><div>2. In the upper right hand corner, click on Content Dashboard</div><div>3. Click on Content</div><div>4. Along the top left of your Content screen you will see Videos, Photo Albums, Drafts</div><div>5. Click on Photo Albums</div><div>6. Click on the circle to the left of the Photo Album you want to delete from</div><div>7. Click on the down arrow to the right of the Photo Album thumbnail</div><div>8. Click on Edit Album which will bring you to Manage Album</div><div>9. You will see each photo in that album with an option to Remove, located under the word Draft, along the right-hand side of each photo</div><div>10. Click Remove</div><div>11. Click Back to get back to your Content</div><div> </div><div><strong>If you want to delete an entire album:</strong></div><div> </div><div>1. Follow above instructions 1-6</div><div>2. Click on More Actions just above the Content Preview of the photo album you activated to edit</div><div>3. Click Delete</div><div>4. Click Delete again when you are asked if you’re sure you want to delete</div><div> </div><div><strong>If you want to delete a video:</strong></div><div> </div><div>1. Follow the same instructions as deleting an entire photo album, except you will click on Videos along the top left of your Content screen.</div>",
+                 "_css_classes": "pa-prose"
+                },
+                "elements": []
+               },
+               {
+                "id": "bcfe6b7",
+                "elType": "widget",
+                "widgetType": "video",
+                "settings": {
+                 "video_type": "youtube",
+                 "youtube_url": "https://www.youtube.com/watch?v=7szM7fgJzXY",
+                 "yt_privacy": "yes",
+                 "rel": "",
+                 "modestbranding": "yes",
+                 "aspect_ratio": "169",
+                 "show_image_overlay": "yes",
+                 "image_overlay": {
+                  "url": "https://i.ytimg.com/vi/7szM7fgJzXY/hqdefault.jpg",
+                  "id": ""
+                 },
+                 "show_play_icon": "yes",
+                 "_css_classes": "pa-video"
+                },
+                "elements": []
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "front": false
+ },
+ {
+  "slug": "faq",
+  "title": "FAQ",
+  "menu_order": 3,
+  "data": [
+   {
+    "id": "8f1973d",
+    "elType": "container",
+    "isInner": false,
+    "settings": {
+     "content_width": "boxed",
+     "flex_direction": "column",
+     "css_classes": "pa-hero"
+    },
+    "elements": [
+     {
+      "id": "a8dba79",
+      "elType": "widget",
+      "widgetType": "text-editor",
+      "settings": {
+       "editor": "<p><a href=\"/\">Home</a><span class=\"sep\">/</span><span>FAQ</span></p>",
+       "_css_classes": "pa-crumbs"
+      },
+      "elements": []
+     },
+     {
+      "id": "26cfb3f",
+      "elType": "widget",
+      "widgetType": "heading",
+      "settings": {
+       "title": "Frequently Asked Questions",
+       "header_size": "h1",
+       "_css_classes": "pa-hero-title"
+      },
+      "elements": []
+     },
+     {
+      "id": "0f870e6",
+      "elType": "widget",
+      "widgetType": "text-editor",
+      "settings": {
+       "editor": "<p>Browse frequently asked questions to quickly find the information you need.</p>",
+       "_css_classes": "pa-hero-lead"
+      },
+      "elements": []
+     }
+    ]
+   },
+   {
+    "id": "6b28fdc",
+    "elType": "container",
+    "isInner": false,
+    "settings": {
+     "content_width": "boxed",
+     "flex_direction": "column",
+     "css_classes": "pa-body"
+    },
+    "elements": [
+     {
+      "id": "8b4a645",
+      "elType": "container",
+      "isInner": true,
+      "settings": {
+       "content_width": "full",
+       "flex_direction": "row",
+       "flex_direction_mobile": "column",
+       "css_classes": "pa-article"
+      },
+      "elements": [
+       {
+        "id": "e8bb673",
+        "elType": "container",
+        "isInner": true,
+        "settings": {
+         "content_width": "full",
+         "flex_direction": "column",
+         "css_classes": "pa-article-aside"
+        },
+        "elements": [
+         {
+          "id": "dc7d4bc",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+           "content_width": "full",
+           "flex_direction": "column",
+           "css_classes": "pa-toc"
+          },
+          "elements": [
+           {
+            "id": "8580896",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+             "title": "On this page",
+             "header_size": "div",
+             "_css_classes": "pa-toc-title"
+            },
+            "elements": []
+           },
+           {
+            "id": "aaa581b",
+            "elType": "widget",
+            "widgetType": "icon-list",
+            "settings": {
+             "icon_list": [
+              {
+               "_id": "07d6449",
+               "text": "Account &amp; Help",
+               "selected_icon": {
+                "value": "fas fa-life-ring",
+                "library": "fa-solid"
+               },
+               "link": {
+                "url": "#account-help",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+               }
+              },
+              {
+               "_id": "1c98c18",
+               "text": "Video &amp; Viewing Guide",
+               "selected_icon": {
+                "value": "fas fa-play-circle",
+                "library": "fa-solid"
+               },
+               "link": {
+                "url": "#video-viewing-guide",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+               }
+              },
+              {
+               "_id": "6eeaa92",
+               "text": "Account &amp; Security",
+               "selected_icon": {
+                "value": "fas fa-user-shield",
+                "library": "fa-solid"
+               },
+               "link": {
+                "url": "#account-security",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+               }
+              },
+              {
+               "_id": "7b0eaf6",
+               "text": "Legal &amp; Privacy",
+               "selected_icon": {
+                "value": "fas fa-file-alt",
+                "library": "fa-solid"
+               },
+               "link": {
+                "url": "#legal-privacy",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+               }
+              }
+             ],
+             "view": "traditional",
+             "_css_classes": "pa-toc-list"
+            },
+            "elements": []
+           },
+           {
+            "id": "c5bd42f",
+            "elType": "widget",
+            "widgetType": "icon-list",
+            "settings": {
+             "icon_list": [
+              {
+               "_id": "b6fbb99",
+               "text": "Help Center Home",
+               "selected_icon": {
+                "value": "fas fa-arrow-left",
+                "library": "fa-solid"
+               },
+               "link": {
+                "url": "/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+               }
+              }
+             ],
+             "view": "traditional",
+             "_css_classes": "pa-toc-list pa-toc-back"
+            },
+            "elements": []
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "id": "7b618eb",
+        "elType": "container",
+        "isInner": true,
+        "settings": {
+         "content_width": "full",
+         "flex_direction": "column",
+         "css_classes": "pa-article-main"
+        },
+        "elements": [
+         {
+          "id": "43b274e",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+           "content_width": "full",
+           "flex_direction": "column",
+           "css_classes": "pa-card pa-card--tight pa-help-card",
+           "_element_id": "account-help"
+          },
+          "elements": [
+           {
+            "id": "1764881",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+             "title": "Account & Help",
+             "header_size": "h2",
+             "_css_classes": "pa-h3"
+            },
+            "elements": []
+           },
+           {
+            "id": "eaf3514",
+            "elType": "widget",
+            "widgetType": "nested-accordion",
+            "settings": {
+             "items": [
+              {
+               "_id": "747f7b3",
+               "item_title": "Contact Projector Customer Support",
+               "element_css_id": "contact-projector"
+              },
+              {
+               "_id": "34ce094",
+               "item_title": "Create Your Projector Account",
+               "element_css_id": "create-account"
+              }
+             ],
+             "title_tag": "h3",
+             "default_state": "all_collapsed",
+             "max_items_expended": "one",
+             "accordion_item_title_position_horizontal": "stretch",
+             "accordion_item_title_icon_position": "end",
+             "accordion_item_title_icon": {
+              "value": "fas fa-chevron-down",
+              "library": "fa-solid"
+             },
+             "accordion_item_title_icon_active": {
+              "value": "fas fa-chevron-up",
+              "library": "fa-solid"
+             },
+             "_css_classes": "pa-accordion"
+            },
+            "elements": [
+             {
+              "id": "f07fdaf",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+               "_title": "item #1",
+               "content_width": "full",
+               "css_classes": "pa-accordion-body"
+              },
+              "elements": [
+               {
+                "id": "6d8b285",
+                "elType": "widget",
+                "widgetType": "text-editor",
+                "settings": {
+                 "editor": "<p>To reach our customer support, please submit your request through our <a href=\"/contact/\">Contact Form</a> located in the header of this page.</p><p>Be sure to check your Junk/Spam folder if you do not immediately receive an auto response acknowledging we received your request.</p><p>Our customer support team is available Monday thought Friday from 8am to 8pm, Eastern Standard Time. Normal response time is 15 minutes during our available support window.</p>",
+                 "_css_classes": "pa-prose"
+                },
+                "elements": []
+               }
+              ]
+             },
+             {
+              "id": "93d2625",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+               "_title": "item #2",
+               "content_width": "full",
+               "css_classes": "pa-accordion-body"
+              },
+              "elements": [
+               {
+                "id": "7ef4aff",
+                "elType": "widget",
+                "widgetType": "text-editor",
+                "settings": {
+                 "editor": "<p>The best way to create and manage your Projector account is on our web site at <a href=\"https://www.projectorstream.com/\" target=\"_blank\" rel=\"noopener\">projectorstream.com</a> from your computer (Chrome Internet browser is preferred). Getting started is simple: you only need to provide your name, e-mail, and accept our <a href=\"/faq/#legal-privacy\">terms of service</a>. You do not need to pay, select a service package, or provide a credit card to create an account. Once registered, you can start viewing other users’ Projectors if you are invited or if you request access; after they grant permission, just log into your account on your computer to accept the invite. From there, you can <a href=\"/gettingstarted/#download-install\">install the Projector TV Streaming app</a> on your Smart TV (Apple TV, ROKU, Amazon Fire, and Google TV) and select the Projector you wish to view. If you want to start uploading and creating your own streaming service, you will need to purchase a subscription.</p><p>For only $79.99 a year, you can upload as many videos and photos as you wish, all safe and secure in the cloud. After you have <a href=\"/gettingstarted/#create-account\">uploaded</a> your content, you can easily <a href=\"/gettingstarted/#sharing-projector\">share</a> your Projector with others and <a href=\"/gettingstarted/#succession-planning\">name a successor</a> to ensure your family memories are preserved forever. To view your own videos, simply log into the Smart TV app with your credentials and enjoy your home movie collection on the big screen.</p><p>Watch the video below to learn exactly how to get started:</p>",
+                 "_css_classes": "pa-prose"
+                },
+                "elements": []
+               },
+               {
+                "id": "4d90598",
+                "elType": "widget",
+                "widgetType": "video",
+                "settings": {
+                 "video_type": "youtube",
+                 "youtube_url": "https://www.youtube.com/watch?v=y0GzlhGgQ6k",
+                 "yt_privacy": "yes",
+                 "rel": "",
+                 "modestbranding": "yes",
+                 "aspect_ratio": "169",
+                 "show_image_overlay": "yes",
+                 "image_overlay": {
+                  "url": "https://i.ytimg.com/vi/y0GzlhGgQ6k/hqdefault.jpg",
+                  "id": ""
+                 },
+                 "show_play_icon": "yes",
+                 "_css_classes": "pa-video"
+                },
+                "elements": []
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "id": "799b475",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+           "content_width": "full",
+           "flex_direction": "column",
+           "css_classes": "pa-card pa-card--tight pa-help-card",
+           "_element_id": "video-viewing-guide"
+          },
+          "elements": [
+           {
+            "id": "3fa39e3",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+             "title": "Video & Viewing Guide",
+             "header_size": "h2",
+             "_css_classes": "pa-h3"
+            },
+            "elements": []
+           },
+           {
+            "id": "d0f3431",
+            "elType": "widget",
+            "widgetType": "nested-accordion",
+            "settings": {
+             "items": [
+              {
+               "_id": "2b768f4",
+               "item_title": "Video Tutorials",
+               "element_css_id": "video-tutorials"
+              },
+              {
+               "_id": "cd9a1e9",
+               "item_title": "Choose a Projector to View",
+               "element_css_id": "choose-projector"
+              },
+              {
+               "_id": "d766419",
+               "item_title": "ROKU Smart TV App Known Trouble Issues",
+               "element_css_id": "roku-issues"
+              }
+             ],
+             "title_tag": "h3",
+             "default_state": "all_collapsed",
+             "max_items_expended": "one",
+             "accordion_item_title_position_horizontal": "stretch",
+             "accordion_item_title_icon_position": "end",
+             "accordion_item_title_icon": {
+              "value": "fas fa-chevron-down",
+              "library": "fa-solid"
+             },
+             "accordion_item_title_icon_active": {
+              "value": "fas fa-chevron-up",
+              "library": "fa-solid"
+             },
+             "_css_classes": "pa-accordion"
+            },
+            "elements": [
+             {
+              "id": "75fe1b2",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+               "_title": "item #1",
+               "content_width": "full",
+               "css_classes": "pa-accordion-body"
+              },
+              "elements": [
+               {
+                "id": "5ad4614",
+                "elType": "widget",
+                "widgetType": "text-editor",
+                "settings": {
+                 "editor": "<p>Projector has a <a href=\"https://www.youtube.com/@ProjectorVideoStreaming\" target=\"_blank\" rel=\"noopener\">YouTube channel</a> complete with Tutorial videos and other important content to help you create that “Netflix” viewing experience for your family’s home movies</p><p><strong>Projector Video Tutorials: </strong></p>",
+                 "_css_classes": "pa-prose"
+                },
+                "elements": []
+               },
+               {
+                "id": "8cc3129",
+                "elType": "container",
+                "isInner": false,
+                "settings": {
+                 "content_width": "full",
+                 "flex_direction": "column",
+                 "css_classes": "pa-grid pa-asset-grid",
+                 "container_type": "grid",
+                 "grid_columns_grid": {
+                  "unit": "fr",
+                  "size": 2,
+                  "sizes": []
+                 },
+                 "grid_columns_grid_tablet": {
+                  "unit": "fr",
+                  "size": 2,
+                  "sizes": []
+                 },
+                 "grid_columns_grid_mobile": {
+                  "unit": "fr",
+                  "size": 1,
+                  "sizes": []
+                 },
+                 "grid_rows_grid": {
+                  "unit": "custom",
+                  "size": "auto",
+                  "sizes": []
+                 },
+                 "grid_rows_grid_tablet": {
+                  "unit": "custom",
+                  "size": "auto",
+                  "sizes": []
+                 },
+                 "grid_rows_grid_mobile": {
+                  "unit": "custom",
+                  "size": "auto",
+                  "sizes": []
+                 },
+                 "grid_gaps": {
+                  "unit": "px",
+                  "column": "24",
+                  "row": "24",
+                  "isLinked": true
+                 },
+                 "grid_gaps_mobile": {
+                  "unit": "px",
+                  "column": "16",
+                  "row": "16",
+                  "isLinked": true
+                 },
+                 "grid_auto_flow": "row"
+                },
+                "elements": [
+                 {
+                  "id": "05e653e",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                   "content_width": "full",
+                   "flex_direction": "column",
+                   "css_classes": "pa-asset pa-video-card"
+                  },
+                  "elements": [
+                   {
+                    "id": "3683f6e",
+                    "elType": "widget",
+                    "widgetType": "video",
+                    "settings": {
+                     "video_type": "youtube",
+                     "youtube_url": "https://www.youtube.com/watch?v=p4PYiDgN-iQ",
+                     "yt_privacy": "yes",
+                     "rel": "",
+                     "modestbranding": "yes",
+                     "aspect_ratio": "169",
+                     "show_image_overlay": "yes",
+                     "image_overlay": {
+                      "url": "https://i.ytimg.com/vi/p4PYiDgN-iQ/hqdefault.jpg",
+                      "id": ""
+                     },
+                     "show_play_icon": "yes",
+                     "_css_classes": "pa-video"
+                    },
+                    "elements": []
+                   },
+                   {
+                    "id": "113f1f0",
+                    "elType": "widget",
+                    "widgetType": "text-editor",
+                    "settings": {
+                     "editor": "<p>Tutorial #1: Uploading Videos</p>",
+                     "_css_classes": "pa-prose pa-video-caption"
+                    },
+                    "elements": []
+                   }
+                  ]
+                 },
+                 {
+                  "id": "1e8321b",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                   "content_width": "full",
+                   "flex_direction": "column",
+                   "css_classes": "pa-asset pa-video-card"
+                  },
+                  "elements": [
+                   {
+                    "id": "5b419ad",
+                    "elType": "widget",
+                    "widgetType": "video",
+                    "settings": {
+                     "video_type": "youtube",
+                     "youtube_url": "https://www.youtube.com/watch?v=d9hy229hw_g",
+                     "yt_privacy": "yes",
+                     "rel": "",
+                     "modestbranding": "yes",
+                     "aspect_ratio": "169",
+                     "show_image_overlay": "yes",
+                     "image_overlay": {
+                      "url": "https://i.ytimg.com/vi/d9hy229hw_g/hqdefault.jpg",
+                      "id": ""
+                     },
+                     "show_play_icon": "yes",
+                     "_css_classes": "pa-video"
+                    },
+                    "elements": []
+                   },
+                   {
+                    "id": "26c8742",
+                    "elType": "widget",
+                    "widgetType": "text-editor",
+                    "settings": {
+                     "editor": "<p>Tutorial #2: Organizing Your Projector</p>",
+                     "_css_classes": "pa-prose pa-video-caption"
+                    },
+                    "elements": []
+                   }
+                  ]
+                 },
+                 {
+                  "id": "4e46355",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                   "content_width": "full",
+                   "flex_direction": "column",
+                   "css_classes": "pa-asset pa-video-card"
+                  },
+                  "elements": [
+                   {
+                    "id": "44910af",
+                    "elType": "widget",
+                    "widgetType": "video",
+                    "settings": {
+                     "video_type": "youtube",
+                     "youtube_url": "https://www.youtube.com/watch?v=c5MLqSKTkgo",
+                     "yt_privacy": "yes",
+                     "rel": "",
+                     "modestbranding": "yes",
+                     "aspect_ratio": "169",
+                     "show_image_overlay": "yes",
+                     "image_overlay": {
+                      "url": "https://i.ytimg.com/vi/c5MLqSKTkgo/hqdefault.jpg",
+                      "id": ""
+                     },
+                     "show_play_icon": "yes",
+                     "_css_classes": "pa-video"
+                    },
+                    "elements": []
+                   },
+                   {
+                    "id": "d021874",
+                    "elType": "widget",
+                    "widgetType": "text-editor",
+                    "settings": {
+                     "editor": "<p>Tutorial #3: Download Projector on Your Smart TV (also see <a href=\"/gettingstarted/#download-install\">HELP CENTER Article on each Smart TV Streaming Device</a>)</p>",
+                     "_css_classes": "pa-prose pa-video-caption"
+                    },
+                    "elements": []
+                   }
+                  ]
+                 },
+                 {
+                  "id": "f4a8569",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                   "content_width": "full",
+                   "flex_direction": "column",
+                   "css_classes": "pa-asset pa-video-card"
+                  },
+                  "elements": [
+                   {
+                    "id": "ff99067",
+                    "elType": "widget",
+                    "widgetType": "video",
+                    "settings": {
+                     "video_type": "youtube",
+                     "youtube_url": "https://www.youtube.com/watch?v=o3w5mspVx0s",
+                     "yt_privacy": "yes",
+                     "rel": "",
+                     "modestbranding": "yes",
+                     "aspect_ratio": "169",
+                     "show_image_overlay": "yes",
+                     "image_overlay": {
+                      "url": "https://i.ytimg.com/vi/o3w5mspVx0s/hqdefault.jpg",
+                      "id": ""
+                     },
+                     "show_play_icon": "yes",
+                     "_css_classes": "pa-video"
+                    },
+                    "elements": []
+                   },
+                   {
+                    "id": "ca3cf33",
+                    "elType": "widget",
+                    "widgetType": "text-editor",
+                    "settings": {
+                     "editor": "<p>Tutorial #4: Sharing with Family and Friends</p>",
+                     "_css_classes": "pa-prose pa-video-caption"
+                    },
+                    "elements": []
+                   }
+                  ]
+                 },
+                 {
+                  "id": "27d47ce",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                   "content_width": "full",
+                   "flex_direction": "column",
+                   "css_classes": "pa-asset pa-video-card"
+                  },
+                  "elements": [
+                   {
+                    "id": "407b25e",
+                    "elType": "widget",
+                    "widgetType": "video",
+                    "settings": {
+                     "video_type": "youtube",
+                     "youtube_url": "https://www.youtube.com/watch?v=7szM7fgJzXY",
+                     "yt_privacy": "yes",
+                     "rel": "",
+                     "modestbranding": "yes",
+                     "aspect_ratio": "169",
+                     "show_image_overlay": "yes",
+                     "image_overlay": {
+                      "url": "https://i.ytimg.com/vi/7szM7fgJzXY/hqdefault.jpg",
+                      "id": ""
+                     },
+                     "show_play_icon": "yes",
+                     "_css_classes": "pa-video"
+                    },
+                    "elements": []
+                   },
+                   {
+                    "id": "388bb0c",
+                    "elType": "widget",
+                    "widgetType": "text-editor",
+                    "settings": {
+                     "editor": "<p>Tutorial #5: Editing Existing Content (Title, Category’s etc.)</p>",
+                     "_css_classes": "pa-prose pa-video-caption"
+                    },
+                    "elements": []
+                   }
+                  ]
+                 },
+                 {
+                  "id": "35c8e25",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                   "content_width": "full",
+                   "flex_direction": "column",
+                   "css_classes": "pa-asset pa-video-card"
+                  },
+                  "elements": [
+                   {
+                    "id": "dab57d3",
+                    "elType": "widget",
+                    "widgetType": "video",
+                    "settings": {
+                     "video_type": "youtube",
+                     "youtube_url": "https://www.youtube.com/watch?v=mxS5nTVeCJE",
+                     "yt_privacy": "yes",
+                     "rel": "",
+                     "modestbranding": "yes",
+                     "aspect_ratio": "169",
+                     "show_image_overlay": "yes",
+                     "image_overlay": {
+                      "url": "https://i.ytimg.com/vi/mxS5nTVeCJE/hqdefault.jpg",
+                      "id": ""
+                     },
+                     "show_play_icon": "yes",
+                     "_css_classes": "pa-video"
+                    },
+                    "elements": []
+                   },
+                   {
+                    "id": "f87ff3e",
+                    "elType": "widget",
+                    "widgetType": "text-editor",
+                    "settings": {
+                     "editor": "<p>Tutorial #6: Succession Planning</p>",
+                     "_css_classes": "pa-prose pa-video-caption"
+                    },
+                    "elements": []
+                   }
+                  ]
+                 },
+                 {
+                  "id": "9f0519e",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                   "content_width": "full",
+                   "flex_direction": "column",
+                   "css_classes": "pa-asset pa-video-card"
+                  },
+                  "elements": [
+                   {
+                    "id": "f6c873b",
+                    "elType": "widget",
+                    "widgetType": "video",
+                    "settings": {
+                     "video_type": "youtube",
+                     "youtube_url": "https://www.youtube.com/watch?v=nncYoKw-ikc",
+                     "yt_privacy": "yes",
+                     "rel": "",
+                     "modestbranding": "yes",
+                     "aspect_ratio": "169",
+                     "show_image_overlay": "yes",
+                     "image_overlay": {
+                      "url": "https://i.ytimg.com/vi/nncYoKw-ikc/hqdefault.jpg",
+                      "id": ""
+                     },
+                     "show_play_icon": "yes",
+                     "_css_classes": "pa-video"
+                    },
+                    "elements": []
+                   },
+                   {
+                    "id": "d389529",
+                    "elType": "widget",
+                    "widgetType": "text-editor",
+                    "settings": {
+                     "editor": "<p>Tutorial #7: Sending Projector as a Gift</p>",
+                     "_css_classes": "pa-prose pa-video-caption"
+                    },
+                    "elements": []
+                   }
+                  ]
+                 },
+                 {
+                  "id": "b75d11c",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                   "content_width": "full",
+                   "flex_direction": "column",
+                   "css_classes": "pa-asset pa-video-card"
+                  },
+                  "elements": [
+                   {
+                    "id": "dba789a",
+                    "elType": "widget",
+                    "widgetType": "video",
+                    "settings": {
+                     "video_type": "youtube",
+                     "youtube_url": "https://www.youtube.com/watch?v=xrmRJ0Bff4c",
+                     "yt_privacy": "yes",
+                     "rel": "",
+                     "modestbranding": "yes",
+                     "aspect_ratio": "169",
+                     "show_image_overlay": "yes",
+                     "image_overlay": {
+                      "url": "https://i.ytimg.com/vi/xrmRJ0Bff4c/hqdefault.jpg",
+                      "id": ""
+                     },
+                     "show_play_icon": "yes",
+                     "_css_classes": "pa-video"
+                    },
+                    "elements": []
+                   },
+                   {
+                    "id": "57af306",
+                    "elType": "widget",
+                    "widgetType": "text-editor",
+                    "settings": {
+                     "editor": "<p>Tutorial #8: Telling Your Story</p>",
+                     "_css_classes": "pa-prose pa-video-caption"
+                    },
+                    "elements": []
+                   }
+                  ]
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "id": "825484e",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+               "_title": "item #2",
+               "content_width": "full",
+               "css_classes": "pa-accordion-body"
+              },
+              "elements": [
+               {
+                "id": "fd81f5f",
+                "elType": "widget",
+                "widgetType": "text-editor",
+                "settings": {
+                 "editor": "<p>When you log into the streaming service on your TV, the first screen will ask which Projector you wish to view. You can select <b>“View My Projector”</b> for your own content or choose a Projector from <a href=\"/gettingstarted/#sharing-projector\">someone who has granted you access</a>.</p><p>We highly recommend selecting the <b>“Tutorials” Projector</b> first. It contains short videos explaining how to <a href=\"/gettingstarted/#create-account\">upload content</a>, <a href=\"/gettingstarted/#sharing-projector\">share with others</a>, and <a href=\"/gettingstarted/#succession-planning\">name successors</a>. You can remove the Tutorials Projector or any other shared view at any time via the <b>“Manage Projectors”</b> button at the bottom of the screen.</p>",
+                 "_css_classes": "pa-prose"
+                },
+                "elements": []
+               },
+               {
+                "id": "2dce55a",
+                "elType": "widget",
+                "widgetType": "image",
+                "settings": {
+                 "image": {
+                  "url": "https://projector.help/wp-content/uploads/2026/01/Screenshot-2024-02-08-at-5.24.51-PM-1024x532.png",
+                  "id": "",
+                  "size": "",
+                  "alt": "screenshot 2024 02 08 at 5.24.51 pm",
+                  "source": "library"
+                 },
+                 "image_size": "full",
+                 "link_to": "custom",
+                 "link": {
+                  "url": "https://projector.help/wp-content/uploads/2026/01/Screenshot-2024-02-08-at-5.24.51-PM.png",
+                  "is_external": "",
+                  "nofollow": "",
+                  "custom_attributes": ""
+                 },
+                 "open_lightbox": "yes",
+                 "_css_classes": "pa-shot pa-shot--center"
+                },
+                "elements": []
+               }
+              ]
+             },
+             {
+              "id": "048ca77",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+               "_title": "item #3",
+               "content_width": "full",
+               "css_classes": "pa-accordion-body"
+              },
+              "elements": [
+               {
+                "id": "3043270",
+                "elType": "widget",
+                "widgetType": "text-editor",
+                "settings": {
+                 "editor": "<p>ROKU Smart TV Streaming devices are a great and economical solution to stream TV, including Projector. However, ROKU devices have two issues that you may experience.</p><p><strong>ISSUE 1:</strong> 10 SECOND SKIP: If your video will not play or if the first ten seconds of your video repeats then starts playing the video in its entirety, the issue appears to be ROKU’s ability to play hi res video outputs like 4K and 1080P formats. This issue is especially apparent if the original video was created using popular video editing software like Apple’s iMovie and Final Cut Pro. To resolve this issue, we suggest saving your video at 720P. The quality of the video is still great and it resolves this 10 second skip at the beginning of your video. This problem only exists on the ROKU platform. We continue to work with ROKU to resolve.</p><p><strong>ISSUE 2:</strong> SIDEWAYS PHOTOS. Sometimes you may notice when playing a photo album slideshow that the ROKU will flip a random photo 90 or 180 degrees, making the photo appear sideways or upside down. It appears that this is a known ROKU issue. Not all photos will do this, just a few in each slide show. For resolution, we recommend deleting those photos ROKU flips then uploading them again. This problem only exists on the ROKU platform. We have notified ROKU of this issue and await resolution.</p><p><strong>ISSUE 3:</strong> SCREENSAVER. ROKU will not stop going into its screensaver mode when playing a photo album slideshow on Projector. This is a ROKU issue where they will not recognize a slide show (as it does recognize when a video is playing). To stop your ROKU from going into screensaver mode while playing a photo album slideshow, you must change the settings in your ROKU device. Follow these instructions: </p><ol><li>Press Home on your Roku remote.</li><li>Scroll and select Settings.</li><li>Select Theme to open the Theme menu.</li><li>Select Screensavers.</li><li>Select Screensaver Start Time: Change to “Disable screensaver” or perhaps try “30 minutes”</li><li><strong>ISSUE 4:</strong> HEIC PHOTO’S (Use .jpg and .png). HEIC is a proprietary Apple format for photo images. While ROKU has had difficulty playing HEIC files when playing a Photo Album Slideshows using Projector, we are currently working on a resolution. In the interim, we advise for this reason to use.jpg or .png formats for your uploaded photo’s until this issue is resolved (in the near future).</li></ol>",
+                 "_css_classes": "pa-prose"
+                },
+                "elements": []
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "id": "9c8e6fc",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+           "content_width": "full",
+           "flex_direction": "column",
+           "css_classes": "pa-card pa-card--tight pa-help-card",
+           "_element_id": "account-security"
+          },
+          "elements": [
+           {
+            "id": "19c8100",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+             "title": "Account & Security",
+             "header_size": "h2",
+             "_css_classes": "pa-h3"
+            },
+            "elements": []
+           },
+           {
+            "id": "1353f00",
+            "elType": "widget",
+            "widgetType": "nested-accordion",
+            "settings": {
+             "items": [
+              {
+               "_id": "5cec4b6",
+               "item_title": "Content Dashboard",
+               "element_css_id": "content-dashboard"
+              },
+              {
+               "_id": "c04fbd4",
+               "item_title": "Settings",
+               "element_css_id": "settings"
+              },
+              {
+               "_id": "052302f",
+               "item_title": "Is Projector a Cloud Storage Platform",
+               "element_css_id": "cloud-storage"
+              }
+             ],
+             "title_tag": "h3",
+             "default_state": "all_collapsed",
+             "max_items_expended": "one",
+             "accordion_item_title_position_horizontal": "stretch",
+             "accordion_item_title_icon_position": "end",
+             "accordion_item_title_icon": {
+              "value": "fas fa-chevron-down",
+              "library": "fa-solid"
+             },
+             "accordion_item_title_icon_active": {
+              "value": "fas fa-chevron-up",
+              "library": "fa-solid"
+             },
+             "_css_classes": "pa-accordion"
+            },
+            "elements": [
+             {
+              "id": "48f7a31",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+               "_title": "item #1",
+               "content_width": "full",
+               "css_classes": "pa-accordion-body"
+              },
+              "elements": [
+               {
+                "id": "a279a23",
+                "elType": "widget",
+                "widgetType": "text-editor",
+                "settings": {
+                 "editor": "<p>The Projector Content Dashboard is your easy to navigate control center to manage all things for you to create and maintain a dynamic and fun Projector account. We made the Dashboard simple and easy so your technical background should not matter. Once you have successfully <a href=\"/faq/#create-account\">created your Projector account</a>, you have access to the Content Dashboard or sometimes just referred to as the Dashboard.</p><p>To locate the Content Dashboard, after successfully logging into your account, go to the top right corner and select your account profile icon. From there is a pull down menu and you will see the Content Dashboard listed (see image).</p>",
+                 "_css_classes": "pa-prose"
+                },
+                "elements": []
+               },
+               {
+                "id": "ce8e0e0",
+                "elType": "widget",
+                "widgetType": "image",
+                "settings": {
+                 "image": {
+                  "url": "https://projector.help/wp-content/uploads/2026/01/Screenshot-2024-02-08-at-5.57.30-PM-1024x539.png",
+                  "id": "",
+                  "size": "",
+                  "alt": "screenshot 2024 02 08 at 5.57.30 pm",
+                  "source": "library"
+                 },
+                 "image_size": "full",
+                 "link_to": "custom",
+                 "link": {
+                  "url": "https://projector.help/wp-content/uploads/2026/01/Screenshot-2024-02-08-at-5.57.30-PM.png",
+                  "is_external": "",
+                  "nofollow": "",
+                  "custom_attributes": ""
+                 },
+                 "open_lightbox": "yes",
+                 "_css_classes": "pa-shot pa-shot--center"
+                },
+                "elements": []
+               },
+               {
+                "id": "2da5058",
+                "elType": "widget",
+                "widgetType": "text-editor",
+                "settings": {
+                 "editor": "<p>Once in the Dashboard, you will see a list of controls on the left hand side. Most are self explanatory to allow you to manage your Content, the Layout of your Projector, manage your Viewers (meaning those you have granted access to view all or some of your content), and your basic account Settings.</p><p>If you have any questions, you can select the “Help” button to submit a question or research on your own in our Help Center.</p>",
+                 "_css_classes": "pa-prose"
+                },
+                "elements": []
+               }
+              ]
+             },
+             {
+              "id": "0d400d1",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+               "_title": "item #2",
+               "content_width": "full",
+               "css_classes": "pa-accordion-body"
+              },
+              "elements": [
+               {
+                "id": "9dc1378",
+                "elType": "widget",
+                "widgetType": "text-editor",
+                "settings": {
+                 "editor": "<p>To manage your personal settings including your subscription plan, billing and payment options, notification settings, profile image/photo, and changing or cancelling your subscription, all can be found here in the <strong>Settings</strong> section of the Content Dashboard:</p>",
+                 "_css_classes": "pa-prose"
+                },
+                "elements": []
+               },
+               {
+                "id": "a54ad88",
+                "elType": "widget",
+                "widgetType": "image",
+                "settings": {
+                 "image": {
+                  "url": "https://projector.help/wp-content/uploads/2026/01/Screen-Shot-2021-11-10-at-3.32.24-PM-909x1024.png",
+                  "id": "",
+                  "size": "",
+                  "alt": "screen shot 2021 11 10 at 3.32.24 pm",
+                  "source": "library"
+                 },
+                 "image_size": "full",
+                 "link_to": "custom",
+                 "link": {
+                  "url": "https://projector.help/wp-content/uploads/2026/01/Screen-Shot-2021-11-10-at-3.32.24-PM.png",
+                  "is_external": "",
+                  "nofollow": "",
+                  "custom_attributes": ""
+                 },
+                 "open_lightbox": "yes",
+                 "_css_classes": "pa-shot pa-shot--center"
+                },
+                "elements": []
+               }
+              ]
+             },
+             {
+              "id": "5921a4d",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+               "_title": "item #3",
+               "content_width": "full",
+               "css_classes": "pa-accordion-body"
+              },
+              "elements": [
+               {
+                "id": "ce8637a",
+                "elType": "widget",
+                "widgetType": "text-editor",
+                "settings": {
+                 "editor": "<p>Projector is the ultimate viewing and sharing platform – however it is only one step in your full Memories Archiving Solution. We always recommend having all your media files, photos, and videos backed-up in other physical and cloud locations. Always save original digitized copies using a safe cloud service or physical storage device like a USB drive or portable hard drive.</p>",
+                 "_css_classes": "pa-prose"
+                },
+                "elements": []
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "id": "a835b85",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+           "content_width": "full",
+           "flex_direction": "column",
+           "css_classes": "pa-card pa-card--tight pa-help-card",
+           "_element_id": "legal-privacy"
+          },
+          "elements": [
+           {
+            "id": "1f398ac",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+             "title": "Legal & Privacy",
+             "header_size": "h2",
+             "_css_classes": "pa-h3"
+            },
+            "elements": []
+           },
+           {
+            "id": "e691ee1",
+            "elType": "widget",
+            "widgetType": "nested-accordion",
+            "settings": {
+             "items": [
+              {
+               "_id": "fc5f5b2",
+               "item_title": "Privacy Policy, Terms and Conditions, Subscriber Agreement",
+               "element_css_id": "legal-privacy"
+              }
+             ],
+             "title_tag": "h3",
+             "default_state": "all_collapsed",
+             "max_items_expended": "one",
+             "accordion_item_title_position_horizontal": "stretch",
+             "accordion_item_title_icon_position": "end",
+             "accordion_item_title_icon": {
+              "value": "fas fa-chevron-down",
+              "library": "fa-solid"
+             },
+             "accordion_item_title_icon_active": {
+              "value": "fas fa-chevron-up",
+              "library": "fa-solid"
+             },
+             "_css_classes": "pa-accordion"
+            },
+            "elements": [
+             {
+              "id": "dbc4f50",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+               "_title": "item #1",
+               "content_width": "full",
+               "css_classes": "pa-accordion-body"
+              },
+              "elements": [
+               {
+                "id": "110a6ee",
+                "elType": "widget",
+                "widgetType": "text-editor",
+                "settings": {
+                 "editor": "<p>Please review our Privacy Policy, Terms and Conditions, and Subscriber Agreement:</p><p><a href=\"https://projector.app/settings/privacy\" target=\"_blank\" rel=\"noopener\">Privacy Policy</a></p><p><a href=\"https://projector.app/settings/terms-and-conditions\" target=\"_blank\" rel=\"noopener\">Terms and Conditions</a></p><p><a href=\"https://projector.app/settings/subscriber-agreement\" target=\"_blank\" rel=\"noopener\">Subscriber Agreement</a></p>",
+                 "_css_classes": "pa-prose"
+                },
+                "elements": []
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "front": false
+ },
+ {
+  "slug": "contact",
+  "title": "Contact",
+  "menu_order": 4,
+  "data": [
+   {
+    "id": "54cd939",
+    "elType": "container",
+    "isInner": false,
+    "settings": {
+     "content_width": "boxed",
+     "flex_direction": "column",
+     "css_classes": "pa-hero"
+    },
+    "elements": [
+     {
+      "id": "9ac9f21",
+      "elType": "widget",
+      "widgetType": "heading",
+      "settings": {
+       "title": "Contact Projector Support",
+       "header_size": "h1",
+       "_css_classes": "pa-hero-title"
+      },
+      "elements": []
+     },
+     {
+      "id": "c3d372d",
+      "elType": "widget",
+      "widgetType": "text-editor",
+      "settings": {
+       "editor": "<p>Fill out the form below and our team will get back to you as soon as possible.</p>",
+       "_css_classes": "pa-hero-lead"
+      },
+      "elements": []
+     }
+    ]
+   },
+   {
+    "id": "8dde39e",
+    "elType": "container",
+    "isInner": false,
+    "settings": {
+     "content_width": "boxed",
+     "flex_direction": "column",
+     "css_classes": "pa-body pa-body--narrow"
+    },
+    "elements": [
+     {
+      "id": "87b97a0",
+      "elType": "container",
+      "isInner": true,
+      "settings": {
+       "content_width": "full",
+       "flex_direction": "column",
+       "css_classes": "pa-card pa-contact-single"
+      },
+      "elements": [
+       {
+        "id": "db61143",
+        "elType": "widget",
+        "widgetType": "shortcode",
+        "settings": {
+         "shortcode": "[contact-form-7 title=\"Contact Projector\"]"
+        },
+        "elements": []
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "front": false
+ }
+]

@@ -1,0 +1,62 @@
+{
+	"$schema": "https://playground.wordpress.net/blueprint-schema.json",
+	"meta": {
+		"title": "Projector Help Center redesign (demo)",
+		"description": "projector.help rebuilt with Elementor and the Projector app's visual language. Same content, new design.",
+		"author": "lucasbravo00"
+	},
+	"landingPage": "/",
+	"preferredVersions": {
+		"php": "8.3",
+		"wp": "latest"
+	},
+	"features": {
+		"networking": true
+	},
+	"login": true,
+	"steps": [
+		{
+			"step": "installPlugin",
+			"pluginData": { "resource": "wordpress.org/plugins", "slug": "elementor" },
+			"options": { "activate": true }
+		},
+		{
+			"step": "installPlugin",
+			"pluginData": { "resource": "wordpress.org/plugins", "slug": "contact-form-7" },
+			"options": { "activate": true }
+		},
+		{
+			"step": "installTheme",
+			"themeData": { "resource": "wordpress.org/themes", "slug": "hello-elementor" },
+			"options": { "activate": false }
+		},
+		{
+			"step": "installTheme",
+			"themeData": { "resource": "url", "url": "https://raw.githubusercontent.com/lucasbravo00/projector-help-demo/main/projector-academy-theme.zip" },
+			"options": { "activate": true }
+		},
+		{
+			"step": "mkdir",
+			"path": "/wordpress/wp-content/pa-demo"
+		},
+		{
+			"step": "writeFile",
+			"path": "/wordpress/wp-content/pa-demo/lib.php",
+			"data": { "resource": "url", "url": "https://raw.githubusercontent.com/lucasbravo00/projector-help-demo/main/lib.php" }
+		},
+		{
+			"step": "writeFile",
+			"path": "/wordpress/wp-content/pa-demo/setup.php",
+			"data": { "resource": "url", "url": "https://raw.githubusercontent.com/lucasbravo00/projector-help-demo/main/setup.php" }
+		},
+		{
+			"step": "writeFile",
+			"path": "/wordpress/wp-content/pa-demo/pages.json",
+			"data": { "resource": "url", "url": "https://raw.githubusercontent.com/lucasbravo00/projector-help-demo/main/pages.json" }
+		},
+		{
+			"step": "runPHP",
+			"code": "<?php require '/wordpress/wp-content/pa-demo/setup.php';"
+		}
+	]
+}
