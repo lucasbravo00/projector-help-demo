@@ -35,6 +35,7 @@ function pa_site_config( $site ) {
 			'blogname'        => 'Projector Academy',
 			'blogdescription' => 'Affiliate Sales and User Guide',
 			'theme_mods'      => array(
+				'pa_bg'          => 'calm',
 				'pa_brand_tag'   => 'Academy',
 				'pa_footer_text' => 'Projector Academy is a resource for all Projector Authorized Affiliate Members.',
 				'pa_copyright'   => '',
@@ -82,6 +83,7 @@ FORM
 			'blogname'        => 'Projector Help Center',
 			'blogdescription' => '',
 			'theme_mods'      => array(
+				'pa_bg'          => 'calm',
 				'pa_brand_tag'   => 'Help Center',
 				'pa_footer_text' => '',
 				'pa_copyright'   => '© {year} Projector, LLC. All Rights Reserved.',
