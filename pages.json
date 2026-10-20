@@ -5,17 +5,35 @@
   "menu_order": 0,
   "data": [
    {
-    "id": "8b99d64",
+    "id": "4b48845",
     "elType": "container",
     "isInner": false,
     "settings": {
      "content_width": "boxed",
      "flex_direction": "column",
-     "css_classes": "pa-hero pa-hero--home"
+     "css_classes": "pa-hero pa-hero--photo pa-hero--home"
     },
     "elements": [
      {
       "id": "016b162",
+      "elType": "widget",
+      "widgetType": "image",
+      "settings": {
+       "image": {
+        "url": "https://projector.help/wp-content/uploads/2026/01/Help-Center-I-1-scaled.jpg",
+        "id": "",
+        "size": "",
+        "alt": "",
+        "source": "library"
+       },
+       "image_size": "full",
+       "link_to": "none",
+       "_css_classes": "pa-hero-photo"
+      },
+      "elements": []
+     },
+     {
+      "id": "b9cea9d",
       "elType": "widget",
       "widgetType": "heading",
       "settings": {
@@ -26,7 +44,7 @@
       "elements": []
      },
      {
-      "id": "b9cea9d",
+      "id": "8b99d64",
       "elType": "widget",
       "widgetType": "text-editor",
       "settings": {
@@ -38,7 +56,7 @@
     ]
    },
    {
-    "id": "628c83f",
+    "id": "a4988a3",
     "elType": "container",
     "isInner": false,
     "settings": {
@@ -48,7 +66,7 @@
     },
     "elements": [
      {
-      "id": "4b48845",
+      "id": "70b153a",
       "elType": "container",
       "isInner": true,
       "settings": {
@@ -284,7 +302,7 @@
       ]
      },
      {
-      "id": "142dd61",
+      "id": "628c83f",
       "elType": "container",
       "isInner": true,
       "settings": {
@@ -294,7 +312,7 @@
       },
       "elements": [
        {
-        "id": "70b153a",
+        "id": "a48e2e6",
         "elType": "widget",
         "widgetType": "heading",
         "settings": {
@@ -305,13 +323,13 @@
         "elements": []
        },
        {
-        "id": "13c0b72",
+        "id": "142dd61",
         "elType": "widget",
         "widgetType": "social-icons",
         "settings": {
          "social_icon_list": [
           {
-           "_id": "a48e2e6",
+           "_id": "f408620",
            "social_icon": {
             "value": "fab fa-facebook-f",
             "library": "fa-brands"
@@ -325,7 +343,7 @@
            "item_icon_color": "default"
           },
           {
-           "_id": "f408620",
+           "_id": "4576fdc",
            "social_icon": {
             "value": "fab fa-youtube",
             "library": "fa-brands"
@@ -339,7 +357,7 @@
            "item_icon_color": "default"
           },
           {
-           "_id": "4576fdc",
+           "_id": "8e7ee43",
            "social_icon": {
             "value": "fab fa-linkedin-in",
             "library": "fa-brands"
@@ -353,7 +371,7 @@
            "item_icon_color": "default"
           },
           {
-           "_id": "8e7ee43",
+           "_id": "50d9207",
            "social_icon": {
             "value": "fab fa-instagram",
             "library": "fa-brands"
@@ -367,7 +385,7 @@
            "item_icon_color": "default"
           },
           {
-           "_id": "50d9207",
+           "_id": "13c0b72",
            "social_icon": {
             "value": "fab fa-tiktok",
             "library": "fa-brands"
@@ -400,17 +418,35 @@
   "menu_order": 1,
   "data": [
    {
-    "id": "ddb86dd",
+    "id": "53a958c",
     "elType": "container",
     "isInner": false,
     "settings": {
      "content_width": "boxed",
      "flex_direction": "column",
-     "css_classes": "pa-hero"
+     "css_classes": "pa-hero pa-hero--photo"
     },
     "elements": [
      {
-      "id": "c42ce65",
+      "id": "b7ea57c",
+      "elType": "widget",
+      "widgetType": "image",
+      "settings": {
+       "image": {
+        "url": "https://projector.help/wp-content/uploads/2026/01/Help-Center-I-1-scaled.jpg",
+        "id": "",
+        "size": "",
+        "alt": "",
+        "source": "library"
+       },
+       "image_size": "full",
+       "link_to": "none",
+       "_css_classes": "pa-hero-photo"
+      },
+      "elements": []
+     },
+     {
+      "id": "5aaecad",
       "elType": "widget",
       "widgetType": "text-editor",
       "settings": {
@@ -420,7 +456,7 @@
       "elements": []
      },
      {
-      "id": "b7ea57c",
+      "id": "ddb86dd",
       "elType": "widget",
       "widgetType": "heading",
       "settings": {
@@ -431,7 +467,7 @@
       "elements": []
      },
      {
-      "id": "5aaecad",
+      "id": "ee7005d",
       "elType": "widget",
       "widgetType": "text-editor",
       "settings": {
@@ -443,7 +479,7 @@
     ]
    },
    {
-    "id": "94358f6",
+    "id": "443e08a",
     "elType": "container",
     "isInner": false,
     "settings": {
@@ -453,7 +489,7 @@
     },
     "elements": [
      {
-      "id": "7d3d729",
+      "id": "b35f0f7",
       "elType": "container",
       "isInner": true,
       "settings": {
@@ -464,7 +500,7 @@
       },
       "elements": [
        {
-        "id": "ee7005d",
+        "id": "7d3d729",
         "elType": "container",
         "isInner": true,
         "settings": {
@@ -474,7 +510,7 @@
         },
         "elements": [
          {
-          "id": "0000382",
+          "id": "c42ce65",
           "elType": "container",
           "isInner": true,
           "settings": {
@@ -484,7 +520,7 @@
           },
           "elements": [
            {
-            "id": "a4988a3",
+            "id": "40e3b44",
             "elType": "widget",
             "widgetType": "heading",
             "settings": {
@@ -495,7 +531,7 @@
             "elements": []
            },
            {
-            "id": "40e3b44",
+            "id": "3aced0e",
             "elType": "widget",
             "widgetType": "heading",
             "settings": {
@@ -506,13 +542,13 @@
             "elements": []
            },
            {
-            "id": "ef54817",
+            "id": "9558bff",
             "elType": "widget",
             "widgetType": "icon-list",
             "settings": {
              "icon_list": [
               {
-               "_id": "9ee6abe",
+               "_id": "09b1373",
                "text": "Essentials",
                "selected_icon": {
                 "value": "fas fa-star",
@@ -526,7 +562,7 @@
                }
               },
               {
-               "_id": "09b1373",
+               "_id": "ef54817",
                "text": "Management",
                "selected_icon": {
                 "value": "fas fa-folder-open",
@@ -546,13 +582,13 @@
             "elements": []
            },
            {
-            "id": "63e8916",
+            "id": "0000382",
             "elType": "widget",
             "widgetType": "icon-list",
             "settings": {
              "icon_list": [
               {
-               "_id": "9558bff",
+               "_id": "63e8916",
                "text": "Help Center Home",
                "selected_icon": {
                 "value": "fas fa-arrow-left",
@@ -576,7 +612,7 @@
         ]
        },
        {
-        "id": "53a958c",
+        "id": "94358f6",
         "elType": "container",
         "isInner": true,
         "settings": {
@@ -586,7 +622,7 @@
         },
         "elements": [
          {
-          "id": "3aced0e",
+          "id": "739f5d2",
           "elType": "widget",
           "widgetType": "heading",
           "settings": {
@@ -597,7 +633,7 @@
           "elements": []
          },
          {
-          "id": "aa3d90f",
+          "id": "e901e8f",
           "elType": "container",
           "isInner": true,
           "settings": {
@@ -608,7 +644,7 @@
           },
           "elements": [
            {
-            "id": "739f5d2",
+            "id": "148f93b",
             "elType": "widget",
             "widgetType": "heading",
             "settings": {
@@ -619,18 +655,18 @@
             "elements": []
            },
            {
-            "id": "dd2b901",
+            "id": "aa3d90f",
             "elType": "widget",
             "widgetType": "nested-accordion",
             "settings": {
              "items": [
               {
-               "_id": "56dcea6",
+               "_id": "050022d",
                "item_title": "Welcome to Projector",
                "element_css_id": "welcome-projector"
               },
               {
-               "_id": "d93ba34",
+               "_id": "8dd9d6b",
                "item_title": "Best Way to Get Started",
                "element_css_id": "get-started"
               }
@@ -652,7 +688,7 @@
             },
             "elements": [
              {
-              "id": "050022d",
+              "id": "d93ba34",
               "elType": "container",
               "isInner": true,
               "settings": {
@@ -662,7 +698,7 @@
               },
               "elements": [
                {
-                "id": "148f93b",
+                "id": "2fd6347",
                 "elType": "widget",
                 "widgetType": "text-editor",
                 "settings": {
@@ -672,7 +708,7 @@
                 "elements": []
                },
                {
-                "id": "2fd6347",
+                "id": "6738e96",
                 "elType": "widget",
                 "widgetType": "video",
                 "settings": {
@@ -695,7 +731,7 @@
               ]
              },
              {
-              "id": "8dd9d6b",
+              "id": "dd2b901",
               "elType": "container",
               "isInner": true,
               "settings": {
@@ -705,7 +741,7 @@
               },
               "elements": [
                {
-                "id": "6738e96",
+                "id": "ea9b881",
                 "elType": "widget",
                 "widgetType": "text-editor",
                 "settings": {
@@ -715,7 +751,7 @@
                 "elements": []
                },
                {
-                "id": "ea9b881",
+                "id": "d858cf9",
                 "elType": "widget",
                 "widgetType": "video",
                 "settings": {
@@ -736,7 +772,7 @@
                 "elements": []
                },
                {
-                "id": "d858cf9",
+                "id": "56dcea6",
                 "elType": "widget",
                 "widgetType": "video",
                 "settings": {
@@ -763,7 +799,7 @@
           ]
          },
          {
-          "id": "5e2506e",
+          "id": "9ee6abe",
           "elType": "container",
           "isInner": true,
           "settings": {
@@ -774,7 +810,7 @@
           },
           "elements": [
            {
-            "id": "e901e8f",
+            "id": "55f3102",
             "elType": "widget",
             "widgetType": "heading",
             "settings": {
@@ -785,18 +821,18 @@
             "elements": []
            },
            {
-            "id": "c4b27f4",
+            "id": "5e2506e",
             "elType": "widget",
             "widgetType": "nested-accordion",
             "settings": {
              "items": [
               {
-               "_id": "2f57e38",
+               "_id": "92decd5",
                "item_title": "Organize Your Content",
                "element_css_id": "organize-content"
               },
               {
-               "_id": "1913457",
+               "_id": "e87a5be",
                "item_title": "Digitizing and Organizing Your Content: Find a Pro to Help You",
                "element_css_id": "digitizing-organizing"
               }
@@ -818,7 +854,7 @@
             },
             "elements": [
              {
-              "id": "92decd5",
+              "id": "1913457",
               "elType": "container",
               "isInner": true,
               "settings": {
@@ -828,7 +864,7 @@
               },
               "elements": [
                {
-                "id": "55f3102",
+                "id": "44cf288",
                 "elType": "widget",
                 "widgetType": "text-editor",
                 "settings": {
@@ -838,7 +874,7 @@
                 "elements": []
                },
                {
-                "id": "44cf288",
+                "id": "d09ae08",
                 "elType": "widget",
                 "widgetType": "video",
                 "settings": {
@@ -861,7 +897,7 @@
               ]
              },
              {
-              "id": "e87a5be",
+              "id": "c4b27f4",
               "elType": "container",
               "isInner": true,
               "settings": {
@@ -871,7 +907,7 @@
               },
               "elements": [
                {
-                "id": "d09ae08",
+                "id": "2f57e38",
                 "elType": "widget",
                 "widgetType": "text-editor",
                 "settings": {
@@ -901,17 +937,35 @@
   "menu_order": 2,
   "data": [
    {
-    "id": "7241800",
+    "id": "f29e2c6",
     "elType": "container",
     "isInner": false,
     "settings": {
      "content_width": "boxed",
      "flex_direction": "column",
-     "css_classes": "pa-hero"
+     "css_classes": "pa-hero pa-hero--photo"
     },
     "elements": [
      {
-      "id": "f69955e",
+      "id": "b3f6955",
+      "elType": "widget",
+      "widgetType": "image",
+      "settings": {
+       "image": {
+        "url": "https://projector.help/wp-content/uploads/2026/01/Help-Center-I-1-scaled.jpg",
+        "id": "",
+        "size": "",
+        "alt": "",
+        "source": "library"
+       },
+       "image_size": "full",
+       "link_to": "none",
+       "_css_classes": "pa-hero-photo"
+      },
+      "elements": []
+     },
+     {
+      "id": "7241800",
       "elType": "widget",
       "widgetType": "text-editor",
       "settings": {
@@ -921,7 +975,7 @@
       "elements": []
      },
      {
-      "id": "8f9ba12",
+      "id": "2632b0f",
       "elType": "widget",
       "widgetType": "heading",
       "settings": {
@@ -932,7 +986,7 @@
       "elements": []
      },
      {
-      "id": "b3f6955",
+      "id": "b4e2045",
       "elType": "widget",
       "widgetType": "text-editor",
       "settings": {
@@ -944,7 +998,7 @@
     ]
    },
    {
-    "id": "bb3fb8a",
+    "id": "6d8b285",
     "elType": "container",
     "isInner": false,
     "settings": {
@@ -954,7 +1008,7 @@
     },
     "elements": [
      {
-      "id": "f29e2c6",
+      "id": "1764881",
       "elType": "container",
       "isInner": true,
       "settings": {
@@ -965,7 +1019,7 @@
       },
       "elements": [
        {
-        "id": "2632b0f",
+        "id": "bb3fb8a",
         "elType": "container",
         "isInner": true,
         "settings": {
@@ -975,7 +1029,7 @@
         },
         "elements": [
          {
-          "id": "5157452",
+          "id": "8f9ba12",
           "elType": "container",
           "isInner": true,
           "settings": {
@@ -985,7 +1039,7 @@
           },
           "elements": [
            {
-            "id": "b35f0f7",
+            "id": "8b46116",
             "elType": "widget",
             "widgetType": "heading",
             "settings": {
@@ -996,7 +1050,7 @@
             "elements": []
            },
            {
-            "id": "443e08a",
+            "id": "4db5ce8",
             "elType": "widget",
             "widgetType": "heading",
             "settings": {
@@ -1007,13 +1061,13 @@
             "elements": []
            },
            {
-            "id": "c4f6bf6",
+            "id": "e09b756",
             "elType": "widget",
             "widgetType": "icon-list",
             "settings": {
              "icon_list": [
               {
-               "_id": "0a88201",
+               "_id": "c4f6bf6",
                "text": "Account Setup",
                "selected_icon": {
                 "value": "fas fa-user-plus",
@@ -1027,7 +1081,7 @@
                }
               },
               {
-               "_id": "97360ed",
+               "_id": "b66a15a",
                "text": "TV &amp; App Setup",
                "selected_icon": {
                 "value": "fas fa-tv",
@@ -1047,7 +1101,7 @@
             "elements": []
            },
            {
-            "id": "b66a15a",
+            "id": "f24950a",
             "elType": "widget",
             "widgetType": "heading",
             "settings": {
@@ -1058,13 +1112,13 @@
             "elements": []
            },
            {
-            "id": "f2977d1",
+            "id": "7da5780",
             "elType": "widget",
             "widgetType": "icon-list",
             "settings": {
              "icon_list": [
               {
-               "_id": "4cb11d6",
+               "_id": "f2977d1",
                "text": "Uploading Media",
                "selected_icon": {
                 "value": "fas fa-cloud-upload-alt",
@@ -1078,7 +1132,7 @@
                }
               },
               {
-               "_id": "30c41e5",
+               "_id": "562748b",
                "text": "Technical Standards",
                "selected_icon": {
                 "value": "fas fa-sliders-h",
@@ -1098,7 +1152,7 @@
             "elements": []
            },
            {
-            "id": "562748b",
+            "id": "e2070b5",
             "elType": "widget",
             "widgetType": "heading",
             "settings": {
@@ -1109,13 +1163,13 @@
             "elements": []
            },
            {
-            "id": "8fb4838",
+            "id": "daccf39",
             "elType": "widget",
             "widgetType": "icon-list",
             "settings": {
              "icon_list": [
               {
-               "_id": "52daa9a",
+               "_id": "8fb4838",
                "text": "Organization",
                "selected_icon": {
                 "value": "fas fa-th-large",
@@ -1129,7 +1183,7 @@
                }
               },
               {
-               "_id": "0ad411b",
+               "_id": "a189ca4",
                "text": "Privacy &amp; Sharing",
                "selected_icon": {
                 "value": "fas fa-users",
@@ -1149,13 +1203,13 @@
             "elements": []
            },
            {
-            "id": "daccf39",
+            "id": "f69955e",
             "elType": "widget",
             "widgetType": "icon-list",
             "settings": {
              "icon_list": [
               {
-               "_id": "a189ca4",
+               "_id": "5157452",
                "text": "Help Center Home",
                "selected_icon": {
                 "value": "fas fa-arrow-left",
@@ -1179,7 +1233,7 @@
         ]
        },
        {
-        "id": "b4e2045",
+        "id": "8580896",
         "elType": "container",
         "isInner": true,
         "settings": {
@@ -1189,7 +1243,7 @@
         },
         "elements": [
          {
-          "id": "8b46116",
+          "id": "5353184",
           "elType": "widget",
           "widgetType": "heading",
           "settings": {
@@ -1200,7 +1254,7 @@
           "elements": []
          },
          {
-          "id": "60602d4",
+          "id": "dd10650",
           "elType": "container",
           "isInner": true,
           "settings": {
@@ -1211,7 +1265,7 @@
           },
           "elements": [
            {
-            "id": "4db5ce8",
+            "id": "4021c63",
             "elType": "widget",
             "widgetType": "heading",
             "settings": {
@@ -1222,23 +1276,23 @@
             "elements": []
            },
            {
-            "id": "36e2c01",
+            "id": "0c77f4d",
             "elType": "widget",
             "widgetType": "nested-accordion",
             "settings": {
              "items": [
               {
-               "_id": "7e8eec2",
+               "_id": "783272c",
                "item_title": "Create an Account and Start Uploading Videos",
                "element_css_id": "create-account"
               },
               {
-               "_id": "783272c",
+               "_id": "3cc1338",
                "item_title": "Succession Planning",
                "element_css_id": "succession-planning"
               },
               {
-               "_id": "3cc1338",
+               "_id": "36e2c01",
                "item_title": "Sending Projector as a Gift",
                "element_css_id": "sending-projector-as-a-gift"
               }
@@ -1260,7 +1314,7 @@
             },
             "elements": [
              {
-              "id": "f6093a1",
+              "id": "11d3b3d",
               "elType": "container",
               "isInner": true,
               "settings": {
@@ -1270,7 +1324,7 @@
               },
               "elements": [
                {
-                "id": "5353184",
+                "id": "9bb473f",
                 "elType": "widget",
                 "widgetType": "text-editor",
                 "settings": {
@@ -1280,7 +1334,7 @@
                 "elements": []
                },
                {
-                "id": "4021c63",
+                "id": "1b93775",
                 "elType": "widget",
                 "widgetType": "video",
                 "settings": {
@@ -1301,7 +1355,7 @@
                 "elements": []
                },
                {
-                "id": "9bb473f",
+                "id": "a80e78a",
                 "elType": "widget",
                 "widgetType": "video",
                 "settings": {
@@ -1324,7 +1378,7 @@
               ]
              },
              {
-              "id": "11d3b3d",
+              "id": "be9db61",
               "elType": "container",
               "isInner": true,
               "settings": {
@@ -1334,7 +1388,7 @@
               },
               "elements": [
                {
-                "id": "1b93775",
+                "id": "b378499",
                 "elType": "widget",
                 "widgetType": "text-editor",
                 "settings": {
@@ -1344,7 +1398,7 @@
                 "elements": []
                },
                {
-                "id": "a80e78a",
+                "id": "22cee55",
                 "elType": "widget",
                 "widgetType": "video",
                 "settings": {
@@ -1367,7 +1421,7 @@
               ]
              },
              {
-              "id": "be9db61",
+              "id": "60602d4",
               "elType": "container",
               "isInner": true,
               "settings": {
@@ -1377,7 +1431,7 @@
               },
               "elements": [
                {
-                "id": "b378499",
+                "id": "7e8eec2",
                 "elType": "widget",
                 "widgetType": "text-editor",
                 "settings": {
@@ -1387,7 +1441,7 @@
                 "elements": []
                },
                {
-                "id": "22cee55",
+                "id": "f6093a1",
                 "elType": "widget",
                 "widgetType": "video",
                 "settings": {
@@ -1414,7 +1468,7 @@
           ]
          },
          {
-          "id": "3ea79c3",
+          "id": "97360ed",
           "elType": "container",
           "isInner": true,
           "settings": {
@@ -1425,7 +1479,7 @@
           },
           "elements": [
            {
-            "id": "0c77f4d",
+            "id": "59492f1",
             "elType": "widget",
             "widgetType": "heading",
             "settings": {
@@ -1436,18 +1490,18 @@
             "elements": []
            },
            {
-            "id": "efc35eb",
+            "id": "0a88201",
             "elType": "widget",
             "widgetType": "nested-accordion",
             "settings": {
              "items": [
               {
-               "_id": "4f30036",
+               "_id": "fedf7be",
                "item_title": "Download and Install the Projector TV Streaming App on Your TV",
                "element_css_id": "download-install"
               },
               {
-               "_id": "fedf7be",
+               "_id": "efc35eb",
                "item_title": "Viewing Different Projectors",
                "element_css_id": "different-projectors"
               }
@@ -1469,7 +1523,7 @@
             },
             "elements": [
              {
-              "id": "feb4c94",
+              "id": "9756012",
               "elType": "container",
               "isInner": true,
               "settings": {
@@ -1479,7 +1533,7 @@
               },
               "elements": [
                {
-                "id": "dd10650",
+                "id": "4f30036",
                 "elType": "widget",
                 "widgetType": "text-editor",
                 "settings": {
@@ -1491,7 +1545,7 @@
               ]
              },
              {
-              "id": "9756012",
+              "id": "3ea79c3",
               "elType": "container",
               "isInner": true,
               "settings": {
@@ -1501,7 +1555,7 @@
               },
               "elements": [
                {
-                "id": "59492f1",
+                "id": "feb4c94",
                 "elType": "widget",
                 "widgetType": "text-editor",
                 "settings": {
@@ -1517,7 +1571,7 @@
           ]
          },
          {
-          "id": "e09b756",
+          "id": "3d8a81a",
           "elType": "widget",
           "widgetType": "heading",
           "settings": {
@@ -1528,7 +1582,7 @@
           "elements": []
          },
          {
-          "id": "97c09fb",
+          "id": "f20940a",
           "elType": "container",
           "isInner": true,
           "settings": {
@@ -1539,7 +1593,7 @@
           },
           "elements": [
            {
-            "id": "f24950a",
+            "id": "63385d5",
             "elType": "widget",
             "widgetType": "heading",
             "settings": {
@@ -1550,28 +1604,28 @@
             "elements": []
            },
            {
-            "id": "d03619e",
+            "id": "92ba352",
             "elType": "widget",
             "widgetType": "nested-accordion",
             "settings": {
              "items": [
               {
-               "_id": "1b5126c",
+               "_id": "051b7e4",
                "item_title": "Video Uploading (1 to 100 at a time), Projector Uploader Software Tools",
                "element_css_id": "video-uploading"
               },
               {
-               "_id": "051b7e4",
+               "_id": "67a1501",
                "item_title": "Uploading Photos",
                "element_css_id": "uploading-photos"
               },
               {
-               "_id": "67a1501",
+               "_id": "2a1ed86",
                "item_title": "Find a Video/Photo Professional to help you digitize, organize, build your Projector Account",
                "element_css_id": "find-video"
               },
               {
-               "_id": "2a1ed86",
+               "_id": "d03619e",
                "item_title": "Telling Your Story",
                "element_css_id": "telling-your-story"
               }
@@ -1593,7 +1647,7 @@
             },
             "elements": [
              {
-              "id": "5122b34",
+              "id": "86e2a39",
               "elType": "container",
               "isInner": true,
               "settings": {
@@ -1603,7 +1657,7 @@
               },
               "elements": [
                {
-                "id": "3d8a81a",
+                "id": "dba6fac",
                 "elType": "widget",
                 "widgetType": "text-editor",
                 "settings": {
@@ -1615,7 +1669,7 @@
               ]
              },
              {
-              "id": "86e2a39",
+              "id": "a979d17",
               "elType": "container",
               "isInner": true,
               "settings": {
@@ -1625,7 +1679,7 @@
               },
               "elements": [
                {
-                "id": "63385d5",
+                "id": "bac56f5",
                 "elType": "widget",
                 "widgetType": "text-editor",
                 "settings": {
@@ -1635,7 +1689,7 @@
                 "elements": []
                },
                {
-                "id": "dba6fac",
+                "id": "b2d708f",
                 "elType": "widget",
                 "widgetType": "video",
                 "settings": {
@@ -1658,7 +1712,7 @@
               ]
              },
              {
-              "id": "a979d17",
+              "id": "ce6d8a9",
               "elType": "container",
               "isInner": true,
               "settings": {
@@ -1668,7 +1722,7 @@
               },
               "elements": [
                {
-                "id": "bac56f5",
+                "id": "41619e4",
                 "elType": "widget",
                 "widgetType": "text-editor",
                 "settings": {
@@ -1680,7 +1734,7 @@
               ]
              },
              {
-              "id": "ce6d8a9",
+              "id": "97c09fb",
               "elType": "container",
               "isInner": true,
               "settings": {
@@ -1690,7 +1744,7 @@
               },
               "elements": [
                {
-                "id": "b2d708f",
+                "id": "1b5126c",
                 "elType": "widget",
                 "widgetType": "text-editor",
                 "settings": {
@@ -1700,7 +1754,7 @@
                 "elements": []
                },
                {
-                "id": "41619e4",
+                "id": "5122b34",
                 "elType": "widget",
                 "widgetType": "video",
                 "settings": {
@@ -1727,7 +1781,7 @@
           ]
          },
          {
-          "id": "8060bab",
+          "id": "30c41e5",
           "elType": "container",
           "isInner": true,
           "settings": {
@@ -1738,7 +1792,7 @@
           },
           "elements": [
            {
-            "id": "92ba352",
+            "id": "e28c3a0",
             "elType": "widget",
             "widgetType": "heading",
             "settings": {
@@ -1749,18 +1803,18 @@
             "elements": []
            },
            {
-            "id": "efaaac4",
+            "id": "4cb11d6",
             "elType": "widget",
             "widgetType": "nested-accordion",
             "settings": {
              "items": [
               {
-               "_id": "451b82f",
+               "_id": "e2bdfa4",
                "item_title": "Video Streaming Standards: A Guide to Maximize Projector Video Streaming",
                "element_css_id": "video-streaming"
               },
               {
-               "_id": "e2bdfa4",
+               "_id": "efaaac4",
                "item_title": "Photo Album File Specification Standards: A Guide to Maximize Projector's Photo Album Slideshows",
                "element_css_id": "photo-album"
               }
@@ -1782,7 +1836,7 @@
             },
             "elements": [
              {
-              "id": "855db8c",
+              "id": "109f25f",
               "elType": "container",
               "isInner": true,
               "settings": {
@@ -1792,7 +1846,7 @@
               },
               "elements": [
                {
-                "id": "f20940a",
+                "id": "451b82f",
                 "elType": "widget",
                 "widgetType": "text-editor",
                 "settings": {
@@ -1804,7 +1858,7 @@
               ]
              },
              {
-              "id": "109f25f",
+              "id": "8060bab",
               "elType": "container",
               "isInner": true,
               "settings": {
@@ -1814,7 +1868,7 @@
               },
               "elements": [
                {
-                "id": "e28c3a0",
+                "id": "855db8c",
                 "elType": "widget",
                 "widgetType": "text-editor",
                 "settings": {
@@ -1830,7 +1884,7 @@
           ]
          },
          {
-          "id": "7da5780",
+          "id": "1916350",
           "elType": "widget",
           "widgetType": "heading",
           "settings": {
@@ -1841,7 +1895,7 @@
           "elements": []
          },
          {
-          "id": "d0b1db9",
+          "id": "5403436",
           "elType": "container",
           "isInner": true,
           "settings": {
@@ -1852,7 +1906,7 @@
           },
           "elements": [
            {
-            "id": "e2070b5",
+            "id": "51cd128",
             "elType": "widget",
             "widgetType": "heading",
             "settings": {
@@ -1863,18 +1917,18 @@
             "elements": []
            },
            {
-            "id": "d794f8a",
+            "id": "93ea85c",
             "elType": "widget",
             "widgetType": "nested-accordion",
             "settings": {
              "items": [
               {
-               "_id": "297577b",
+               "_id": "ff0c593",
                "item_title": "Creating Categories and Organizing Your Videos and Playlists",
                "element_css_id": "creating-categories"
               },
               {
-               "_id": "ff0c593",
+               "_id": "d794f8a",
                "item_title": "Customizing Your Projector",
                "element_css_id": "customizing-projector"
               }
@@ -1896,7 +1950,7 @@
             },
             "elements": [
              {
-              "id": "4d45aab",
+              "id": "b57281a",
               "elType": "container",
               "isInner": true,
               "settings": {
@@ -1906,7 +1960,7 @@
               },
               "elements": [
                {
-                "id": "1916350",
+                "id": "a146090",
                 "elType": "widget",
                 "widgetType": "text-editor",
                 "settings": {
@@ -1918,7 +1972,7 @@
               ]
              },
              {
-              "id": "b57281a",
+              "id": "d0b1db9",
               "elType": "container",
               "isInner": true,
               "settings": {
@@ -1928,7 +1982,7 @@
               },
               "elements": [
                {
-                "id": "51cd128",
+                "id": "297577b",
                 "elType": "widget",
                 "widgetType": "text-editor",
                 "settings": {
@@ -1938,7 +1992,7 @@
                 "elements": []
                },
                {
-                "id": "a146090",
+                "id": "4d45aab",
                 "elType": "widget",
                 "widgetType": "video",
                 "settings": {
@@ -1965,7 +2019,7 @@
           ]
          },
          {
-          "id": "0c467ef",
+          "id": "0ad411b",
           "elType": "container",
           "isInner": true,
           "settings": {
@@ -1976,7 +2030,7 @@
           },
           "elements": [
            {
-            "id": "93ea85c",
+            "id": "32691dc",
             "elType": "widget",
             "widgetType": "heading",
             "settings": {
@@ -1987,18 +2041,18 @@
             "elements": []
            },
            {
-            "id": "bf27267",
+            "id": "52daa9a",
             "elType": "widget",
             "widgetType": "nested-accordion",
             "settings": {
              "items": [
               {
-               "_id": "9c2335a",
+               "_id": "40beb26",
                "item_title": "Sharing Projector with Family and Friends",
                "element_css_id": "sharing-projector"
               },
               {
-               "_id": "40beb26",
+               "_id": "bf27267",
                "item_title": "How to Delete Photos &amp; Videos from your Projector Account",
                "element_css_id": "delete-photos"
               }
@@ -2020,7 +2074,7 @@
             },
             "elements": [
              {
-              "id": "6156538",
+              "id": "db1147a",
               "elType": "container",
               "isInner": true,
               "settings": {
@@ -2030,7 +2084,7 @@
               },
               "elements": [
                {
-                "id": "5403436",
+                "id": "430bf3a",
                 "elType": "widget",
                 "widgetType": "text-editor",
                 "settings": {
@@ -2040,7 +2094,7 @@
                 "elements": []
                },
                {
-                "id": "32691dc",
+                "id": "bcfe6b7",
                 "elType": "widget",
                 "widgetType": "video",
                 "settings": {
@@ -2063,7 +2117,7 @@
               ]
              },
              {
-              "id": "db1147a",
+              "id": "0c467ef",
               "elType": "container",
               "isInner": true,
               "settings": {
@@ -2073,7 +2127,7 @@
               },
               "elements": [
                {
-                "id": "430bf3a",
+                "id": "9c2335a",
                 "elType": "widget",
                 "widgetType": "text-editor",
                 "settings": {
@@ -2083,7 +2137,7 @@
                 "elements": []
                },
                {
-                "id": "bcfe6b7",
+                "id": "6156538",
                 "elType": "widget",
                 "widgetType": "video",
                 "settings": {
@@ -2124,17 +2178,35 @@
   "menu_order": 3,
   "data": [
    {
-    "id": "8f1973d",
+    "id": "6b28fdc",
     "elType": "container",
     "isInner": false,
     "settings": {
      "content_width": "boxed",
      "flex_direction": "column",
-     "css_classes": "pa-hero"
+     "css_classes": "pa-hero pa-hero--photo"
     },
     "elements": [
      {
-      "id": "a8dba79",
+      "id": "8f1973d",
+      "elType": "widget",
+      "widgetType": "image",
+      "settings": {
+       "image": {
+        "url": "https://projector.help/wp-content/uploads/2026/01/Help-Center-I-1-scaled.jpg",
+        "id": "",
+        "size": "",
+        "alt": "",
+        "source": "library"
+       },
+       "image_size": "full",
+       "link_to": "none",
+       "_css_classes": "pa-hero-photo"
+      },
+      "elements": []
+     },
+     {
+      "id": "e8bb673",
       "elType": "widget",
       "widgetType": "text-editor",
       "settings": {
@@ -2144,7 +2216,7 @@
       "elements": []
      },
      {
-      "id": "26cfb3f",
+      "id": "7b618eb",
       "elType": "widget",
       "widgetType": "heading",
       "settings": {
@@ -2155,7 +2227,7 @@
       "elements": []
      },
      {
-      "id": "0f870e6",
+      "id": "8b4a645",
       "elType": "widget",
       "widgetType": "text-editor",
       "settings": {
@@ -2167,7 +2239,7 @@
     ]
    },
    {
-    "id": "6b28fdc",
+    "id": "db61143",
     "elType": "container",
     "isInner": false,
     "settings": {
@@ -2177,7 +2249,7 @@
     },
     "elements": [
      {
-      "id": "8b4a645",
+      "id": "54cd939",
       "elType": "container",
       "isInner": true,
       "settings": {
@@ -2188,7 +2260,7 @@
       },
       "elements": [
        {
-        "id": "e8bb673",
+        "id": "9ac9f21",
         "elType": "container",
         "isInner": true,
         "settings": {
@@ -2198,7 +2270,7 @@
         },
         "elements": [
          {
-          "id": "dc7d4bc",
+          "id": "0f870e6",
           "elType": "container",
           "isInner": true,
           "settings": {
@@ -2208,7 +2280,7 @@
           },
           "elements": [
            {
-            "id": "8580896",
+            "id": "7ef4aff",
             "elType": "widget",
             "widgetType": "heading",
             "settings": {
@@ -2219,13 +2291,13 @@
             "elements": []
            },
            {
-            "id": "aaa581b",
+            "id": "dc7d4bc",
             "elType": "widget",
             "widgetType": "icon-list",
             "settings": {
              "icon_list": [
               {
-               "_id": "07d6449",
+               "_id": "7b0eaf6",
                "text": "Account &amp; Help",
                "selected_icon": {
                 "value": "fas fa-life-ring",
@@ -2239,7 +2311,7 @@
                }
               },
               {
-               "_id": "1c98c18",
+               "_id": "aaa581b",
                "text": "Video &amp; Viewing Guide",
                "selected_icon": {
                 "value": "fas fa-play-circle",
@@ -2253,7 +2325,7 @@
                }
               },
               {
-               "_id": "6eeaa92",
+               "_id": "b6fbb99",
                "text": "Account &amp; Security",
                "selected_icon": {
                 "value": "fas fa-user-shield",
@@ -2267,7 +2339,7 @@
                }
               },
               {
-               "_id": "7b0eaf6",
+               "_id": "c5bd42f",
                "text": "Legal &amp; Privacy",
                "selected_icon": {
                 "value": "fas fa-file-alt",
@@ -2287,13 +2359,13 @@
             "elements": []
            },
            {
-            "id": "c5bd42f",
+            "id": "26cfb3f",
             "elType": "widget",
             "widgetType": "icon-list",
             "settings": {
              "icon_list": [
               {
-               "_id": "b6fbb99",
+               "_id": "a8dba79",
                "text": "Help Center Home",
                "selected_icon": {
                 "value": "fas fa-arrow-left",
@@ -2317,7 +2389,7 @@
         ]
        },
        {
-        "id": "7b618eb",
+        "id": "c3d372d",
         "elType": "container",
         "isInner": true,
         "settings": {
@@ -2327,7 +2399,7 @@
         },
         "elements": [
          {
-          "id": "43b274e",
+          "id": "3683f6e",
           "elType": "container",
           "isInner": true,
           "settings": {
@@ -2338,7 +2410,7 @@
           },
           "elements": [
            {
-            "id": "1764881",
+            "id": "4d90598",
             "elType": "widget",
             "widgetType": "heading",
             "settings": {
@@ -2349,18 +2421,18 @@
             "elements": []
            },
            {
-            "id": "eaf3514",
+            "id": "5ad4614",
             "elType": "widget",
             "widgetType": "nested-accordion",
             "settings": {
              "items": [
               {
-               "_id": "747f7b3",
+               "_id": "93d2625",
                "item_title": "Contact Projector Customer Support",
                "element_css_id": "contact-projector"
               },
               {
-               "_id": "34ce094",
+               "_id": "43b274e",
                "item_title": "Create Your Projector Account",
                "element_css_id": "create-account"
               }
@@ -2382,7 +2454,7 @@
             },
             "elements": [
              {
-              "id": "f07fdaf",
+              "id": "eaf3514",
               "elType": "container",
               "isInner": true,
               "settings": {
@@ -2392,7 +2464,7 @@
               },
               "elements": [
                {
-                "id": "6d8b285",
+                "id": "747f7b3",
                 "elType": "widget",
                 "widgetType": "text-editor",
                 "settings": {
@@ -2404,7 +2476,7 @@
               ]
              },
              {
-              "id": "93d2625",
+              "id": "3fa39e3",
               "elType": "container",
               "isInner": true,
               "settings": {
@@ -2414,7 +2486,7 @@
               },
               "elements": [
                {
-                "id": "7ef4aff",
+                "id": "f07fdaf",
                 "elType": "widget",
                 "widgetType": "text-editor",
                 "settings": {
@@ -2424,7 +2496,7 @@
                 "elements": []
                },
                {
-                "id": "4d90598",
+                "id": "34ce094",
                 "elType": "widget",
                 "widgetType": "video",
                 "settings": {
@@ -2451,7 +2523,7 @@
           ]
          },
          {
-          "id": "799b475",
+          "id": "ce8e0e0",
           "elType": "container",
           "isInner": true,
           "settings": {
@@ -2462,7 +2534,7 @@
           },
           "elements": [
            {
-            "id": "3fa39e3",
+            "id": "113f1f0",
             "elType": "widget",
             "widgetType": "heading",
             "settings": {
@@ -2473,23 +2545,23 @@
             "elements": []
            },
            {
-            "id": "d0f3431",
+            "id": "a279a23",
             "elType": "widget",
             "widgetType": "nested-accordion",
             "settings": {
              "items": [
               {
-               "_id": "2b768f4",
+               "_id": "825484e",
                "item_title": "Video Tutorials",
                "element_css_id": "video-tutorials"
               },
               {
-               "_id": "cd9a1e9",
+               "_id": "048ca77",
                "item_title": "Choose a Projector to View",
                "element_css_id": "choose-projector"
               },
               {
-               "_id": "d766419",
+               "_id": "799b475",
                "item_title": "ROKU Smart TV App Known Trouble Issues",
                "element_css_id": "roku-issues"
               }
@@ -2511,7 +2583,7 @@
             },
             "elements": [
              {
-              "id": "75fe1b2",
+              "id": "d766419",
               "elType": "container",
               "isInner": true,
               "settings": {
@@ -2521,7 +2593,7 @@
               },
               "elements": [
                {
-                "id": "5ad4614",
+                "id": "05e653e",
                 "elType": "widget",
                 "widgetType": "text-editor",
                 "settings": {
@@ -2531,7 +2603,7 @@
                 "elements": []
                },
                {
-                "id": "8cc3129",
+                "id": "3043270",
                 "elType": "container",
                 "isInner": false,
                 "settings": {
@@ -2585,7 +2657,7 @@
                 },
                 "elements": [
                  {
-                  "id": "05e653e",
+                  "id": "1e8321b",
                   "elType": "container",
                   "isInner": false,
                   "settings": {
@@ -2595,7 +2667,7 @@
                   },
                   "elements": [
                    {
-                    "id": "3683f6e",
+                    "id": "5b419ad",
                     "elType": "widget",
                     "widgetType": "video",
                     "settings": {
@@ -2616,54 +2688,11 @@
                     "elements": []
                    },
                    {
-                    "id": "113f1f0",
-                    "elType": "widget",
-                    "widgetType": "text-editor",
-                    "settings": {
-                     "editor": "<p>Tutorial #1: Uploading Videos</p>",
-                     "_css_classes": "pa-prose pa-video-caption"
-                    },
-                    "elements": []
-                   }
-                  ]
-                 },
-                 {
-                  "id": "1e8321b",
-                  "elType": "container",
-                  "isInner": false,
-                  "settings": {
-                   "content_width": "full",
-                   "flex_direction": "column",
-                   "css_classes": "pa-asset pa-video-card"
-                  },
-                  "elements": [
-                   {
-                    "id": "5b419ad",
-                    "elType": "widget",
-                    "widgetType": "video",
-                    "settings": {
-                     "video_type": "youtube",
-                     "youtube_url": "https://www.youtube.com/watch?v=d9hy229hw_g",
-                     "yt_privacy": "yes",
-                     "rel": "",
-                     "modestbranding": "yes",
-                     "aspect_ratio": "169",
-                     "show_image_overlay": "yes",
-                     "image_overlay": {
-                      "url": "https://i.ytimg.com/vi/d9hy229hw_g/hqdefault.jpg",
-                      "id": ""
-                     },
-                     "show_play_icon": "yes",
-                     "_css_classes": "pa-video"
-                    },
-                    "elements": []
-                   },
-                   {
                     "id": "26c8742",
                     "elType": "widget",
                     "widgetType": "text-editor",
                     "settings": {
-                     "editor": "<p>Tutorial #2: Organizing Your Projector</p>",
+                     "editor": "<p>Tutorial #1: Uploading Videos</p>",
                      "_css_classes": "pa-prose pa-video-caption"
                     },
                     "elements": []
@@ -2686,14 +2715,14 @@
                     "widgetType": "video",
                     "settings": {
                      "video_type": "youtube",
-                     "youtube_url": "https://www.youtube.com/watch?v=c5MLqSKTkgo",
+                     "youtube_url": "https://www.youtube.com/watch?v=d9hy229hw_g",
                      "yt_privacy": "yes",
                      "rel": "",
                      "modestbranding": "yes",
                      "aspect_ratio": "169",
                      "show_image_overlay": "yes",
                      "image_overlay": {
-                      "url": "https://i.ytimg.com/vi/c5MLqSKTkgo/hqdefault.jpg",
+                      "url": "https://i.ytimg.com/vi/d9hy229hw_g/hqdefault.jpg",
                       "id": ""
                      },
                      "show_play_icon": "yes",
@@ -2706,7 +2735,7 @@
                     "elType": "widget",
                     "widgetType": "text-editor",
                     "settings": {
-                     "editor": "<p>Tutorial #3: Download Projector on Your Smart TV (also see <a href=\"/gettingstarted/#download-install\">HELP CENTER Article on each Smart TV Streaming Device</a>)</p>",
+                     "editor": "<p>Tutorial #2: Organizing Your Projector</p>",
                      "_css_classes": "pa-prose pa-video-caption"
                     },
                     "elements": []
@@ -2729,14 +2758,14 @@
                     "widgetType": "video",
                     "settings": {
                      "video_type": "youtube",
-                     "youtube_url": "https://www.youtube.com/watch?v=o3w5mspVx0s",
+                     "youtube_url": "https://www.youtube.com/watch?v=c5MLqSKTkgo",
                      "yt_privacy": "yes",
                      "rel": "",
                      "modestbranding": "yes",
                      "aspect_ratio": "169",
                      "show_image_overlay": "yes",
                      "image_overlay": {
-                      "url": "https://i.ytimg.com/vi/o3w5mspVx0s/hqdefault.jpg",
+                      "url": "https://i.ytimg.com/vi/c5MLqSKTkgo/hqdefault.jpg",
                       "id": ""
                      },
                      "show_play_icon": "yes",
@@ -2749,7 +2778,7 @@
                     "elType": "widget",
                     "widgetType": "text-editor",
                     "settings": {
-                     "editor": "<p>Tutorial #4: Sharing with Family and Friends</p>",
+                     "editor": "<p>Tutorial #3: Download Projector on Your Smart TV (also see <a href=\"/gettingstarted/#download-install\">HELP CENTER Article on each Smart TV Streaming Device</a>)</p>",
                      "_css_classes": "pa-prose pa-video-caption"
                     },
                     "elements": []
@@ -2772,14 +2801,14 @@
                     "widgetType": "video",
                     "settings": {
                      "video_type": "youtube",
-                     "youtube_url": "https://www.youtube.com/watch?v=7szM7fgJzXY",
+                     "youtube_url": "https://www.youtube.com/watch?v=o3w5mspVx0s",
                      "yt_privacy": "yes",
                      "rel": "",
                      "modestbranding": "yes",
                      "aspect_ratio": "169",
                      "show_image_overlay": "yes",
                      "image_overlay": {
-                      "url": "https://i.ytimg.com/vi/7szM7fgJzXY/hqdefault.jpg",
+                      "url": "https://i.ytimg.com/vi/o3w5mspVx0s/hqdefault.jpg",
                       "id": ""
                      },
                      "show_play_icon": "yes",
@@ -2792,7 +2821,7 @@
                     "elType": "widget",
                     "widgetType": "text-editor",
                     "settings": {
-                     "editor": "<p>Tutorial #5: Editing Existing Content (Title, Category’s etc.)</p>",
+                     "editor": "<p>Tutorial #4: Sharing with Family and Friends</p>",
                      "_css_classes": "pa-prose pa-video-caption"
                     },
                     "elements": []
@@ -2815,14 +2844,14 @@
                     "widgetType": "video",
                     "settings": {
                      "video_type": "youtube",
-                     "youtube_url": "https://www.youtube.com/watch?v=mxS5nTVeCJE",
+                     "youtube_url": "https://www.youtube.com/watch?v=7szM7fgJzXY",
                      "yt_privacy": "yes",
                      "rel": "",
                      "modestbranding": "yes",
                      "aspect_ratio": "169",
                      "show_image_overlay": "yes",
                      "image_overlay": {
-                      "url": "https://i.ytimg.com/vi/mxS5nTVeCJE/hqdefault.jpg",
+                      "url": "https://i.ytimg.com/vi/7szM7fgJzXY/hqdefault.jpg",
                       "id": ""
                      },
                      "show_play_icon": "yes",
@@ -2835,7 +2864,7 @@
                     "elType": "widget",
                     "widgetType": "text-editor",
                     "settings": {
-                     "editor": "<p>Tutorial #6: Succession Planning</p>",
+                     "editor": "<p>Tutorial #5: Editing Existing Content (Title, Category’s etc.)</p>",
                      "_css_classes": "pa-prose pa-video-caption"
                     },
                     "elements": []
@@ -2858,14 +2887,14 @@
                     "widgetType": "video",
                     "settings": {
                      "video_type": "youtube",
-                     "youtube_url": "https://www.youtube.com/watch?v=nncYoKw-ikc",
+                     "youtube_url": "https://www.youtube.com/watch?v=mxS5nTVeCJE",
                      "yt_privacy": "yes",
                      "rel": "",
                      "modestbranding": "yes",
                      "aspect_ratio": "169",
                      "show_image_overlay": "yes",
                      "image_overlay": {
-                      "url": "https://i.ytimg.com/vi/nncYoKw-ikc/hqdefault.jpg",
+                      "url": "https://i.ytimg.com/vi/mxS5nTVeCJE/hqdefault.jpg",
                       "id": ""
                      },
                      "show_play_icon": "yes",
@@ -2878,7 +2907,7 @@
                     "elType": "widget",
                     "widgetType": "text-editor",
                     "settings": {
-                     "editor": "<p>Tutorial #7: Sending Projector as a Gift</p>",
+                     "editor": "<p>Tutorial #6: Succession Planning</p>",
                      "_css_classes": "pa-prose pa-video-caption"
                     },
                     "elements": []
@@ -2901,6 +2930,49 @@
                     "widgetType": "video",
                     "settings": {
                      "video_type": "youtube",
+                     "youtube_url": "https://www.youtube.com/watch?v=nncYoKw-ikc",
+                     "yt_privacy": "yes",
+                     "rel": "",
+                     "modestbranding": "yes",
+                     "aspect_ratio": "169",
+                     "show_image_overlay": "yes",
+                     "image_overlay": {
+                      "url": "https://i.ytimg.com/vi/nncYoKw-ikc/hqdefault.jpg",
+                      "id": ""
+                     },
+                     "show_play_icon": "yes",
+                     "_css_classes": "pa-video"
+                    },
+                    "elements": []
+                   },
+                   {
+                    "id": "57af306",
+                    "elType": "widget",
+                    "widgetType": "text-editor",
+                    "settings": {
+                     "editor": "<p>Tutorial #7: Sending Projector as a Gift</p>",
+                     "_css_classes": "pa-prose pa-video-caption"
+                    },
+                    "elements": []
+                   }
+                  ]
+                 },
+                 {
+                  "id": "2dce55a",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                   "content_width": "full",
+                   "flex_direction": "column",
+                   "css_classes": "pa-asset pa-video-card"
+                  },
+                  "elements": [
+                   {
+                    "id": "8cc3129",
+                    "elType": "widget",
+                    "widgetType": "video",
+                    "settings": {
+                     "video_type": "youtube",
                      "youtube_url": "https://www.youtube.com/watch?v=xrmRJ0Bff4c",
                      "yt_privacy": "yes",
                      "rel": "",
@@ -2917,7 +2989,7 @@
                     "elements": []
                    },
                    {
-                    "id": "57af306",
+                    "id": "fd81f5f",
                     "elType": "widget",
                     "widgetType": "text-editor",
                     "settings": {
@@ -2933,7 +3005,7 @@
               ]
              },
              {
-              "id": "825484e",
+              "id": "d0f3431",
               "elType": "container",
               "isInner": true,
               "settings": {
@@ -2943,7 +3015,7 @@
               },
               "elements": [
                {
-                "id": "fd81f5f",
+                "id": "2b768f4",
                 "elType": "widget",
                 "widgetType": "text-editor",
                 "settings": {
@@ -2953,7 +3025,7 @@
                 "elements": []
                },
                {
-                "id": "2dce55a",
+                "id": "75fe1b2",
                 "elType": "widget",
                 "widgetType": "image",
                 "settings": {
@@ -2980,7 +3052,7 @@
               ]
              },
              {
-              "id": "048ca77",
+              "id": "19c8100",
               "elType": "container",
               "isInner": true,
               "settings": {
@@ -2990,7 +3062,7 @@
               },
               "elements": [
                {
-                "id": "3043270",
+                "id": "cd9a1e9",
                 "elType": "widget",
                 "widgetType": "text-editor",
                 "settings": {
@@ -3006,7 +3078,7 @@
           ]
          },
          {
-          "id": "9c8e6fc",
+          "id": "fc5f5b2",
           "elType": "container",
           "isInner": true,
           "settings": {
@@ -3017,7 +3089,7 @@
           },
           "elements": [
            {
-            "id": "19c8100",
+            "id": "2da5058",
             "elType": "widget",
             "widgetType": "heading",
             "settings": {
@@ -3028,23 +3100,23 @@
             "elements": []
            },
            {
-            "id": "1353f00",
+            "id": "110a6ee",
             "elType": "widget",
             "widgetType": "nested-accordion",
             "settings": {
              "items": [
               {
-               "_id": "5cec4b6",
+               "_id": "0d400d1",
                "item_title": "Content Dashboard",
                "element_css_id": "content-dashboard"
               },
               {
-               "_id": "c04fbd4",
+               "_id": "5921a4d",
                "item_title": "Settings",
                "element_css_id": "settings"
               },
               {
-               "_id": "052302f",
+               "_id": "9c8e6fc",
                "item_title": "Is Projector a Cloud Storage Platform",
                "element_css_id": "cloud-storage"
               }
@@ -3066,7 +3138,7 @@
             },
             "elements": [
              {
-              "id": "48f7a31",
+              "id": "052302f",
               "elType": "container",
               "isInner": true,
               "settings": {
@@ -3076,7 +3148,7 @@
               },
               "elements": [
                {
-                "id": "a279a23",
+                "id": "9dc1378",
                 "elType": "widget",
                 "widgetType": "text-editor",
                 "settings": {
@@ -3086,7 +3158,7 @@
                 "elements": []
                },
                {
-                "id": "ce8e0e0",
+                "id": "a54ad88",
                 "elType": "widget",
                 "widgetType": "image",
                 "settings": {
@@ -3111,7 +3183,7 @@
                 "elements": []
                },
                {
-                "id": "2da5058",
+                "id": "ce8637a",
                 "elType": "widget",
                 "widgetType": "text-editor",
                 "settings": {
@@ -3123,7 +3195,7 @@
               ]
              },
              {
-              "id": "0d400d1",
+              "id": "1353f00",
               "elType": "container",
               "isInner": true,
               "settings": {
@@ -3133,7 +3205,7 @@
               },
               "elements": [
                {
-                "id": "9dc1378",
+                "id": "5cec4b6",
                 "elType": "widget",
                 "widgetType": "text-editor",
                 "settings": {
@@ -3143,7 +3215,7 @@
                 "elements": []
                },
                {
-                "id": "a54ad88",
+                "id": "48f7a31",
                 "elType": "widget",
                 "widgetType": "image",
                 "settings": {
@@ -3170,7 +3242,7 @@
               ]
              },
              {
-              "id": "5921a4d",
+              "id": "1f398ac",
               "elType": "container",
               "isInner": true,
               "settings": {
@@ -3180,7 +3252,7 @@
               },
               "elements": [
                {
-                "id": "ce8637a",
+                "id": "c04fbd4",
                 "elType": "widget",
                 "widgetType": "text-editor",
                 "settings": {
@@ -3196,7 +3268,7 @@
           ]
          },
          {
-          "id": "a835b85",
+          "id": "6eeaa92",
           "elType": "container",
           "isInner": true,
           "settings": {
@@ -3207,7 +3279,7 @@
           },
           "elements": [
            {
-            "id": "1f398ac",
+            "id": "dbc4f50",
             "elType": "widget",
             "widgetType": "heading",
             "settings": {
@@ -3218,13 +3290,13 @@
             "elements": []
            },
            {
-            "id": "e691ee1",
+            "id": "1c98c18",
             "elType": "widget",
             "widgetType": "nested-accordion",
             "settings": {
              "items": [
               {
-               "_id": "fc5f5b2",
+               "_id": "a835b85",
                "item_title": "Privacy Policy, Terms and Conditions, Subscriber Agreement",
                "element_css_id": "legal-privacy"
               }
@@ -3246,7 +3318,7 @@
             },
             "elements": [
              {
-              "id": "dbc4f50",
+              "id": "07d6449",
               "elType": "container",
               "isInner": true,
               "settings": {
@@ -3256,7 +3328,7 @@
               },
               "elements": [
                {
-                "id": "110a6ee",
+                "id": "e691ee1",
                 "elType": "widget",
                 "widgetType": "text-editor",
                 "settings": {
@@ -3286,17 +3358,35 @@
   "menu_order": 4,
   "data": [
    {
-    "id": "54cd939",
+    "id": "729a261",
     "elType": "container",
     "isInner": false,
     "settings": {
      "content_width": "boxed",
      "flex_direction": "column",
-     "css_classes": "pa-hero"
+     "css_classes": "pa-hero pa-hero--photo"
     },
     "elements": [
      {
-      "id": "9ac9f21",
+      "id": "87b97a0",
+      "elType": "widget",
+      "widgetType": "image",
+      "settings": {
+       "image": {
+        "url": "https://projector.help/wp-content/uploads/2026/01/Help-Center-I-1-scaled.jpg",
+        "id": "",
+        "size": "",
+        "alt": "",
+        "source": "library"
+       },
+       "image_size": "full",
+       "link_to": "none",
+       "_css_classes": "pa-hero-photo"
+      },
+      "elements": []
+     },
+     {
+      "id": "8dde39e",
       "elType": "widget",
       "widgetType": "heading",
       "settings": {
@@ -3307,7 +3397,7 @@
       "elements": []
      },
      {
-      "id": "c3d372d",
+      "id": "f4743ca",
       "elType": "widget",
       "widgetType": "text-editor",
       "settings": {
@@ -3319,7 +3409,7 @@
     ]
    },
    {
-    "id": "8dde39e",
+    "id": "d58f157",
     "elType": "container",
     "isInner": false,
     "settings": {
@@ -3329,7 +3419,7 @@
     },
     "elements": [
      {
-      "id": "87b97a0",
+      "id": "e873464",
       "elType": "container",
       "isInner": true,
       "settings": {
@@ -3339,7 +3429,7 @@
       },
       "elements": [
        {
-        "id": "db61143",
+        "id": "454eeea",
         "elType": "widget",
         "widgetType": "shortcode",
         "settings": {
